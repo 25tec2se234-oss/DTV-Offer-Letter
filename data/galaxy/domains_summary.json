@@ -1,0 +1,104 @@
+[
+  {
+    "id": "technology-it",
+    "name": "Technology & IT",
+    "color": "#ff3b3b",
+    "pathCount": 935
+  },
+  {
+    "id": "business-management",
+    "name": "Business & Management",
+    "color": "#3b82f6",
+    "pathCount": 652
+  },
+  {
+    "id": "creative-design",
+    "name": "Creative & Design",
+    "color": "#10b981",
+    "pathCount": 464
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "color": "#f59e0b",
+    "pathCount": 7
+  },
+  {
+    "id": "healthcare-medicine",
+    "name": "Healthcare & Medicine",
+    "color": "#8b5cf6",
+    "pathCount": 775
+  },
+  {
+    "id": "engineering-hardware",
+    "name": "Engineering & Hardware",
+    "color": "#ec4899",
+    "pathCount": 1054
+  },
+  {
+    "id": "government-law-defense",
+    "name": "Government, Law & Defense",
+    "color": "#14b8a6",
+    "pathCount": 58
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare",
+    "color": "#f97316",
+    "pathCount": 11
+  },
+  {
+    "id": "science-research",
+    "name": "Science & Research",
+    "color": "#6366f1",
+    "pathCount": 272
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "color": "#84cc16",
+    "pathCount": 16
+  },
+  {
+    "id": "govt-exams",
+    "name": "Govt Exams",
+    "color": "#ff3b3b",
+    "pathCount": 16
+  },
+  {
+    "id": "professional",
+    "name": "Professional",
+    "color": "#3b82f6",
+    "pathCount": 33
+  },
+  {
+    "id": "design-institutes",
+    "name": "Design & Institutes",
+    "color": "#10b981",
+    "pathCount": 7
+  },
+  {
+    "id": "business-other",
+    "name": "Business & Other",
+    "color": "#f59e0b",
+    "pathCount": 9
+  },
+  {
+    "id": "education-coaching",
+    "name": "Education & Coaching",
+    "color": "#8b5cf6",
+    "pathCount": 264
+  },
+  {
+    "id": "creative",
+    "name": "Creative",
+    "color": "#ec4899",
+    "pathCount": 8
+  },
+  {
+    "id": "emerging-diverse-fields",
+    "name": "Emerging & Diverse Fields",
+    "color": "#14b8a6",
+    "pathCount": 1469
+  }
+]

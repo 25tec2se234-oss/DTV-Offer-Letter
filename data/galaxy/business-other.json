@@ -1,0 +1,107 @@
+{
+  "domain": "Business & Other",
+  "id": "business-other",
+  "color": "#f59e0b",
+  "pathCount": 9,
+  "paths": [
+    {
+      "id": "youtuber",
+      "name": "YouTuber",
+      "hook": "Build massive digital communities, create engaging video entertainment, and monetize personal media brands.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹3–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "influencer",
+      "name": "Influencer",
+      "hook": "Shape consumer trends, partner with global brands, and engage niche audiences across social media platforms.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹3–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "algotrade",
+      "name": "Algotrading Strategist",
+      "hook": "Develop ultra-low-latency high-frequency trading algorithms using advanced quantitative mathematical models and C++/Python.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹18–80 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ipvaluator",
+      "name": "Intangible IP Valuator",
+      "hook": "Assign accurate multi-million-dollar financial valuations to proprietary neural network weights, trade secrets, algorithms, and brand equity.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "digiestate",
+      "name": "Digital Inheritance & Estate Conservator",
+      "hook": "Vault and legally transition multi-million-dollar cryptocurrency wallets, private keys, and digital assets to heirs upon passing.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "gameeconomist",
+      "name": "Gamification Behavioural Economist",
+      "hook": "Integrate highly addicting game mechanics, variable reward loops, and behavioral economics into corporate fintech apps to dramatically increase user retention.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business & Other"
+      ],
+      "salaryRange": "₹12–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche40",
+      "name": "Autonomous VTOL Rooftop Tower Controller",
+      "hook": "Monitor automated rooftop air traffic management grids routing thousands of electric air taxis smoothly across crowded mega-cities.",
+      "tags": [
+        "Curated niche/future careers",
+        "Business & Other"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche41",
+      "name": "Algotrading High-Frequency Purist",
+      "hook": "Deploy C++ and Python ultra-low-latency algorithms that execute statistical arbitrage across global financial exchanges in microseconds.",
+      "tags": [
+        "Curated niche/future careers",
+        "Business & Other"
+      ],
+      "salaryRange": "₹18–82 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche50",
+      "name": "Precision Deep Sea Fish Farmer",
+      "hook": "Operate AI-driven automated deep-sea floating fisheries utilizing computer vision hunger sensors for sustainable marine protein harvests.",
+      "tags": [
+        "Curated niche/future careers",
+        "Business & Other"
+      ],
+      "salaryRange": "₹9–42 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "domain": "Government, Law & Defense",
+  "id": "government-law-defense",
+  "color": "#14b8a6",
+  "pathCount": 58,
+  "paths": [
+    {
+      "id": "law",
+      "name": "Lawyer",
+      "hook": "Provide legal counsel, represent clients, and navigate the justice system.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹4–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cds",
+      "name": "CDS (Combined Defence Services)",
+      "hook": "Graduate-level entry to Indian military academies for elite armed forces leadership roles.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹9–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "capf",
+      "name": "CAPF (Central Armed Police Forces)",
+      "hook": "Become an Assistant Commandant leading BSF, CRPF, CISF, ITBP, and SSB battalions.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vakil_hi",
+      "name": "वकील (Advocate / Lawyer)",
+      "hook": "Provide expert legal defense, navigate corporate law, and represent clients in courts of justice.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹5–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "autofleet",
+      "name": "Autonomous Fleet Command Officer",
+      "hook": "Monitor, route, and troubleshoot nationwide networks of fully autonomous long-haul electric freight truck fleets via satellite mission control.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche57",
+      "name": "Autonomous Fleet Control Officer",
+      "hook": "Monitor satellite mission control command desks to route and troubleshoot nationwide networks of fully autonomous electric freight trucks.",
+      "tags": [
+        "Curated niche/future careers",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bpsc_pcs",
+      "name": "BPSC State Civil Services",
+      "hook": "Prestigious state administrative and executive cadre leading major developmental projects and civil governance across Bihar.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ssc_cgl",
+      "name": "SSC CGL Officer",
+      "hook": "Central government administrative posts spanning customs, income tax inspector cadres, and central secretariat governance.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cds_officer",
+      "name": "CDS Commissioned Officer",
+      "hook": "Combined Defence Services leadership pathway for direct appointment of elite tactical commanders across military academies.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ia_infantry",
+      "name": "Indian Army Infantry Officer",
+      "hook": "Elite ground troop tactical leadership defending strategic borders, counter-insurgency grids, and high-altitude battlefields.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bsf_commander",
+      "name": "BSF Border Defense Commander",
+      "hook": "First line of national defense managing international territorial border security and cross-border tactical infiltration grids.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ib_acio",
+      "name": "IB ACIO Intelligence Officer",
+      "hook": "Intelligence Bureau executive operatives gathering critical counter-terrorism and internal security human intelligence.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cbi_officer",
+      "name": "CBI Investigative Officer",
+      "hook": "Central Bureau of Investigation premier detectives investigating complex economic crimes and national security cases.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bank_po",
+      "name": "Bank PO (Probationary Officer)",
+      "hook": "Premium banking operational leadership cadre overseeing branch finance, loan underwriting, and regional customer portfolios.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "lic_aao",
+      "name": "LIC AAO (Assistant Administrative Officer)",
+      "hook": "Life Insurance Corporation executive operations underwriting multi-million dollar insurance policies and pension assets.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "apex_lawyer",
+      "name": "Supreme Court Constitutional Lawyer",
+      "hook": "Arguing high-stakes constitutional legal challenges, drafting corporate contracts, and defending corporate litigation.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "appellate_judge",
+      "name": "High Court District Judge",
+      "hook": "Adjudicating complex civil and criminal litigation, interpreting constitutional law, and delivering binding sovereign legal verdicts.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-officer",
+      "name": "Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-services",
+      "name": "Services",
+      "hook": "Master the intricacies of being a Services to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-inspector",
+      "name": "Inspector",
+      "hook": "Master the intricacies of being a Inspector to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-defense",
+      "name": "Defense",
+      "hook": "Master the intricacies of being a Defense to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-paralegal",
+      "name": "Paralegal",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Paralegal.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-legal",
+      "name": "Legal",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Legal.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-court",
+      "name": "Court",
+      "hook": "Master the intricacies of being a Court to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-corporate-lawyer",
+      "name": "Corporate Lawyer",
+      "hook": "Master the intricacies of being a Corporate Lawyer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-compliance-officer",
+      "name": "Compliance Officer",
+      "hook": "Master the intricacies of being a Compliance Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ip-lawyer",
+      "name": "IP Lawyer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of IP Lawyer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-income-tax-inspector",
+      "name": "Income Tax Inspector",
+      "hook": "Master the intricacies of being a Income Tax Inspector to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-gst-inspector",
+      "name": "GST Inspector",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled GST Inspector.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-customs-officer",
+      "name": "Customs Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Customs Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-central-excise-officer",
+      "name": "Central Excise Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Central Excise Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-postal-inspector",
+      "name": "Postal Inspector",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Postal Inspector.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-bsnl-officer",
+      "name": "BSNL Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of BSNL Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-mtnl-officer",
+      "name": "MTNL Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled MTNL Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-forest-range-officer",
+      "name": "Forest Range Officer",
+      "hook": "Master the intricacies of being a Forest Range Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-wildlife-officer",
+      "name": "Wildlife Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Wildlife Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-pollution-control-board-officer",
+      "name": "Pollution Control Board Officer",
+      "hook": "Master the intricacies of being a Pollution Control Board Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-agriculture-development-officer",
+      "name": "Agriculture Development Officer",
+      "hook": "Master the intricacies of being a Agriculture Development Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-agricultural-officer",
+      "name": "Agricultural Officer",
+      "hook": "Master the intricacies of being a Agricultural Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-krishi-vigyan-kendra-officer",
+      "name": "Krishi Vigyan Kendra Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Krishi Vigyan Kendra Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-state-government-teacher",
+      "name": "State Government Teacher",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled State Government Teacher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-esic-officer",
+      "name": "ESIC Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of ESIC Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-mospi-statistical-officer",
+      "name": "MOSPI Statistical Officer",
+      "hook": "Master the intricacies of being a MOSPI Statistical Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-dgca-officer",
+      "name": "DGCA Officer",
+      "hook": "Master the intricacies of being a DGCA Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-port-trust-officer",
+      "name": "Port Trust Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Port Trust Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-digital-india-mission-officer",
+      "name": "Digital India Mission Officer",
+      "hook": "Master the intricacies of being a Digital India Mission Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-election-commission-officer",
+      "name": "Election Commission Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Election Commission Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-state-election-commission-officer",
+      "name": "State Election Commission Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of State Election Commission Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-panchayat-development-officer",
+      "name": "Panchayat Development Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Panchayat Development Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-block-development-officer",
+      "name": "Block Development Officer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Block Development Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-civil-judge",
+      "name": "Civil Judge",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Civil Judge.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-high-court-administrative-officer",
+      "name": "High Court Administrative Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled High Court Administrative Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-supreme-court-administrative-officer",
+      "name": "Supreme Court Administrative Officer",
+      "hook": "Master the intricacies of being a Supreme Court Administrative Officer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-court-clerk",
+      "name": "Court Clerk",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Court Clerk.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-sub-inspector",
+      "name": "Sub-Inspector",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Sub-Inspector.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-police-constable",
+      "name": "Police Constable",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Police Constable.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-territorial-army",
+      "name": "Territorial Army",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Territorial Army.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-exim-bank-officer",
+      "name": "EXIM Bank Officer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled EXIM Bank Officer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Government, Law & Defense"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

@@ -1,0 +1,3000 @@
+{
+  "domain": "Science & Research",
+  "id": "science-research",
+  "color": "#6366f1",
+  "pathCount": 272,
+  "paths": [
+    {
+      "id": "env",
+      "name": "Environmental Scientist",
+      "hook": "Protect the environment and human health through research and policy-making.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹4–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "professor",
+      "name": "Professor",
+      "hook": "Deliver advanced academic lecturing, publish cutting-edge research, and guide higher education students.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–28 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "asteroidmin",
+      "name": "Asteroid Mining Geologist",
+      "hook": "Analyze spectroscopic data from near-Earth asteroids to locate ultra-valuable platinum-group metal deposits and water ice reserves.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–70 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "aeromaterial",
+      "name": "Aerospace Materials Alchemist",
+      "hook": "Forge ultra-lightweight carbon nanotube composite alloys and ceramic matrix structures capable of withstanding atmospheric re-entry temperatures.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "solidbattery",
+      "name": "Next-Gen Solid-State Battery Chemist",
+      "hook": "Replace volatile liquid electrolytes with solid ceramic ion conductors to double electric vehicle driving range and eliminate fire risks.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "planetarydefense",
+      "name": "Planetary Defence Radar Astronomer",
+      "hook": "Operate massive planetary radar dishes to ping approaching Near-Earth objects and calculate their impact trajectories down to the millimeter.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–70 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "academic_professor",
+      "name": "University Academic Professor",
+      "hook": "Delivering advanced higher education lectures, publishing peer-reviewed empirical research, and mentoring doctoral candidates.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "comp_bio_p",
+      "name": "Algorithmic Genomics Computational Biologist",
+      "hook": "Writing complex bioinformatics software pipelines to sequence massive human DNA strings and discover customized medical cures.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-researcher",
+      "name": "Researcher",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Researcher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-scientist",
+      "name": "Scientist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Scientist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-physicist",
+      "name": "Physicist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Physicist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-astrophysicist",
+      "name": "Astrophysicist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Astrophysicist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-chemist",
+      "name": "Chemist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Chemist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-scientist-research",
+      "name": "Scientist (Research)",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Scientist (Research).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-biochemist",
+      "name": "Biochemist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Biochemist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-scientist-academic",
+      "name": "Scientist (Academic)",
+      "hook": "Master the intricacies of being a Scientist (Academic) to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-biologist",
+      "name": "Biologist",
+      "hook": "Master the intricacies of being a Biologist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-academic",
+      "name": "Academic",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Academic.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-microbiologist",
+      "name": "Microbiologist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Microbiologist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-immunobiologist",
+      "name": "Immunobiologist",
+      "hook": "Master the intricacies of being a Immunobiologist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-astronomer",
+      "name": "Astronomer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Astronomer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-astrobiologist-academic",
+      "name": "Astrobiologist (Academic)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Astrobiologist (Academic).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-geologist",
+      "name": "Geologist",
+      "hook": "Master the intricacies of being a Geologist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-neuroscientist",
+      "name": "Neuroscientist",
+      "hook": "Master the intricacies of being a Neuroscientist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-icar-scientist",
+      "name": "ICAR Scientist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of ICAR Scientist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-drdo-scientist",
+      "name": "DRDO Scientist",
+      "hook": "Master the intricacies of being a DRDO Scientist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-barc-scientist",
+      "name": "BARC Scientist",
+      "hook": "Master the intricacies of being a BARC Scientist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-assistant-professor",
+      "name": "Assistant Professor",
+      "hook": "Master the intricacies of being a Assistant Professor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-nic-scientist",
+      "name": "NIC Scientist",
+      "hook": "Master the intricacies of being a NIC Scientist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10018",
+      "name": "Associate Sustainability & Climate Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Auditor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10023",
+      "name": "Staff Sustainability & Climate Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Strategist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10029",
+      "name": "Systems Sustainability & Climate Auditor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Auditor (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10040",
+      "name": "Cloud Sustainability & Climate Engineer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Engineer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10043",
+      "name": "Sustainability & Climate Developer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Developer (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10049",
+      "name": "Sustainability & Climate Engineer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10056",
+      "name": "Cloud Sustainability & Climate Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Developer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10074",
+      "name": "Senior Sustainability & Climate Analyst",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Analyst specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10092",
+      "name": "Founding Sustainability & Climate Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Liaison (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10119",
+      "name": "Principal Sustainability & Climate Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Principal Sustainability & Climate Director (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10124",
+      "name": "Independent Sustainability & Climate Designer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Designer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10140",
+      "name": "Senior Sustainability & Climate Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Consultant (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10148",
+      "name": "Founding Sustainability & Climate Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Technician (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10161",
+      "name": "Sustainability & Climate Engineer",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10184",
+      "name": "Sustainability & Climate Supervisor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10196",
+      "name": "Independent Sustainability & Climate Operator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Operator (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10207",
+      "name": "Sustainability & Climate Strategist",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Strategist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10211",
+      "name": "Sustainability & Climate Director",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Director specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10215",
+      "name": "Sustainability & Climate Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Consultant (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10280",
+      "name": "Sustainability & Climate Facilitator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Facilitator (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10329",
+      "name": "Computational Sustainability & Climate Operator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Operator (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10361",
+      "name": "Independent Sustainability & Climate Specialist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Specialist (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10370",
+      "name": "Sustainability & Climate Designer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Designer (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10414",
+      "name": "Sustainability & Climate Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Technician (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10416",
+      "name": "Sustainability & Climate Manager",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Manager specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10442",
+      "name": "Chief Sustainability & Climate Supervisor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Supervisor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10445",
+      "name": "Sustainability & Climate Analyst",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Analyst specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10448",
+      "name": "Sustainability & Climate Technician (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Technician (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10449",
+      "name": "Staff Sustainability & Climate Engineer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Engineer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10481",
+      "name": "Applied Sustainability & Climate Director (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Director (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10497",
+      "name": "Data Sustainability & Climate Specialist",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Specialist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10499",
+      "name": "Sustainability & Climate Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Scientist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10530",
+      "name": "Sustainability & Climate Researcher (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Researcher (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10532",
+      "name": "Sustainability & Climate Coordinator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Coordinator (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10606",
+      "name": "Strategic Sustainability & Climate Specialist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Sustainability & Climate Specialist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10607",
+      "name": "Associate Sustainability & Climate Trainer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Trainer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10640",
+      "name": "Cloud Sustainability & Climate Director (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Director (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10641",
+      "name": "Systems Sustainability & Climate Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Developer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10646",
+      "name": "Sustainability & Climate Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Manager (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10652",
+      "name": "Sustainability & Climate Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Director (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10654",
+      "name": "Remote Sustainability & Climate Facilitator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Facilitator (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10708",
+      "name": "Sustainability & Climate Specialist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Specialist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10722",
+      "name": "Sustainability & Climate Supervisor (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10746",
+      "name": "Sustainability & Climate Operator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Operator (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10787",
+      "name": "Sustainability & Climate Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10837",
+      "name": "Lead Sustainability & Climate Analyst",
+      "hook": "Lead and execute strategic initiatives as a Lead Sustainability & Climate Analyst specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10862",
+      "name": "Senior Sustainability & Climate Architect",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Architect specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10880",
+      "name": "Applied Sustainability & Climate Technician (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Technician (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10899",
+      "name": "Sustainability & Climate Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Manager (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10931",
+      "name": "Cloud Sustainability & Climate Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Supervisor (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10945",
+      "name": "Independent Sustainability & Climate Engineer",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Engineer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10953",
+      "name": "Sustainability & Climate Facilitator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Facilitator (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10973",
+      "name": "Senior Sustainability & Climate Designer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Designer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11018",
+      "name": "Creative Sustainability & Climate Director (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Director (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11060",
+      "name": "Sustainability & Climate Scientist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Scientist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11062",
+      "name": "Applied Sustainability & Climate Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Researcher (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11073",
+      "name": "Sustainability & Climate Developer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Developer (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11077",
+      "name": "Computational Sustainability & Climate Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Trainer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11084",
+      "name": "Executive Sustainability & Climate Planner (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Executive Sustainability & Climate Planner (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11086",
+      "name": "Sustainability & Climate Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11099",
+      "name": "Strategic Sustainability & Climate Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Sustainability & Climate Consultant (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11101",
+      "name": "Chief Sustainability & Climate Architect (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Architect (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11104",
+      "name": "Systems Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11126",
+      "name": "Cloud Sustainability & Climate Architect (North America)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Architect (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11146",
+      "name": "Principal Sustainability & Climate Director (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Principal Sustainability & Climate Director (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11183",
+      "name": "Computational Sustainability & Climate Analyst (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Analyst (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11187",
+      "name": "Systems Sustainability & Climate Analyst",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Analyst specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11201",
+      "name": "Sustainability & Climate Scientist",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Scientist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11223",
+      "name": "Applied Sustainability & Climate Scientist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Scientist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11229",
+      "name": "Sustainability & Climate Architect (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Architect (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11252",
+      "name": "Sustainability & Climate Liaison",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Liaison specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11260",
+      "name": "Virtual Sustainability & Climate Facilitator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Facilitator (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11264",
+      "name": "Lead Sustainability & Climate Researcher",
+      "hook": "Lead and execute strategic initiatives as a Lead Sustainability & Climate Researcher specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11307",
+      "name": "Technical Sustainability & Climate Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Technical Sustainability & Climate Coordinator (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11316",
+      "name": "Sustainability & Climate Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Evangelist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11331",
+      "name": "Sustainability & Climate Auditor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Auditor (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11348",
+      "name": "Data Sustainability & Climate Director (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Director (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11355",
+      "name": "Remote Sustainability & Climate Strategist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Strategist (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11418",
+      "name": "Computational Sustainability & Climate Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Auditor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11449",
+      "name": "Sustainability & Climate Analyst (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Analyst (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11458",
+      "name": "Founding Sustainability & Climate Designer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Designer (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11462",
+      "name": "Sustainability & Climate Scientist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Scientist (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11481",
+      "name": "Systems Sustainability & Climate Technician",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Technician specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11486",
+      "name": "Sustainability & Climate Facilitator",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Facilitator specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11488",
+      "name": "Systems Sustainability & Climate Operator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Operator (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11510",
+      "name": "Founding Sustainability & Climate Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Researcher (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11513",
+      "name": "Sustainability & Climate Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Liaison (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11526",
+      "name": "Sustainability & Climate Scientist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Scientist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11558",
+      "name": "Staff Sustainability & Climate Facilitator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Facilitator (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11565",
+      "name": "Virtual Sustainability & Climate Developer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Developer (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11605",
+      "name": "Regional Sustainability & Climate Supervisor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional Sustainability & Climate Supervisor (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11612",
+      "name": "Sustainability & Climate Planner (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Planner (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11623",
+      "name": "Sustainability & Climate Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Specialist (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11647",
+      "name": "Global Sustainability & Climate Liaison (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Global Sustainability & Climate Liaison (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11657",
+      "name": "Sustainability & Climate Facilitator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Facilitator (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11660",
+      "name": "Sustainability & Climate Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Auditor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11666",
+      "name": "Senior Sustainability & Climate Supervisor",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Supervisor specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11704",
+      "name": "Sustainability & Climate Coordinator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Coordinator (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11732",
+      "name": "Senior Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11753",
+      "name": "Strategic Sustainability & Climate Developer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Sustainability & Climate Developer (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11759",
+      "name": "Sustainability & Climate Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Coordinator (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11765",
+      "name": "Sustainability & Climate Developer",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Developer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11795",
+      "name": "Founding Sustainability & Climate Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Developer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11826",
+      "name": "Sustainability & Climate Architect (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Architect (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11832",
+      "name": "Sustainability & Climate Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Liaison (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11840",
+      "name": "Creative Sustainability & Climate Technician (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Technician (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11843",
+      "name": "Sustainability & Climate Trainer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Trainer (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11859",
+      "name": "Sustainability & Climate Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Liaison (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11860",
+      "name": "Applied Sustainability & Climate Architect (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Architect (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11886",
+      "name": "Sustainability & Climate Auditor",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Auditor specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11907",
+      "name": "Sustainability & Climate Coordinator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Coordinator (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11914",
+      "name": "Sustainability & Climate Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Trainer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11918",
+      "name": "Creative Sustainability & Climate Facilitator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Facilitator (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11931",
+      "name": "Computational Sustainability & Climate Scientist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Scientist (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11957",
+      "name": "Technical Sustainability & Climate Strategist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Technical Sustainability & Climate Strategist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11960",
+      "name": "Clinical Sustainability & Climate Researcher (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Sustainability & Climate Researcher (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11972",
+      "name": "Sustainability & Climate Director (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Director (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11976",
+      "name": "Chief Sustainability & Climate Strategist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Strategist (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12028",
+      "name": "Senior Sustainability & Climate Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Supervisor (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12049",
+      "name": "Sustainability & Climate Trainer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Trainer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12102",
+      "name": "Associate Sustainability & Climate Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Scientist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12117",
+      "name": "Principal Sustainability & Climate Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Principal Sustainability & Climate Manager (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12126",
+      "name": "Applied Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12131",
+      "name": "Sustainability & Climate Designer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Designer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12151",
+      "name": "Independent Sustainability & Climate Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Developer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12166",
+      "name": "Sustainability & Climate Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Planner (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12168",
+      "name": "Independent Sustainability & Climate Operator",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Operator specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12171",
+      "name": "Sustainability & Climate Strategist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Strategist (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12174",
+      "name": "Lead Sustainability & Climate Auditor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Lead Sustainability & Climate Auditor (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12181",
+      "name": "Sustainability & Climate Consultant (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Consultant (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12194",
+      "name": "Remote Sustainability & Climate Facilitator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Facilitator (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12250",
+      "name": "Sustainability & Climate Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Evangelist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12253",
+      "name": "Cloud Sustainability & Climate Consultant (North America)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Consultant (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12256",
+      "name": "Creative Sustainability & Climate Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Researcher (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12281",
+      "name": "Data Sustainability & Climate Operator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Operator (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12388",
+      "name": "Sustainability & Climate Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Manager (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12394",
+      "name": "Global Sustainability & Climate Evangelist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Global Sustainability & Climate Evangelist (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12406",
+      "name": "Systems Sustainability & Climate Scientist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Scientist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12408",
+      "name": "Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12470",
+      "name": "Sustainability & Climate Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Architect (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12494",
+      "name": "Independent Sustainability & Climate Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Planner (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12502",
+      "name": "Sustainability & Climate Engineer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12530",
+      "name": "Virtual Sustainability & Climate Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Director (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12553",
+      "name": "Executive Sustainability & Climate Designer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Executive Sustainability & Climate Designer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12559",
+      "name": "Virtual Sustainability & Climate Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Liaison (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12568",
+      "name": "Remote Sustainability & Climate Engineer",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Engineer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12572",
+      "name": "Sustainability & Climate Specialist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Specialist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12581",
+      "name": "Sustainability & Climate Researcher (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Researcher (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12589",
+      "name": "Enterprise Sustainability & Climate Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Sustainability & Climate Technician (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12598",
+      "name": "Senior Sustainability & Climate Architect (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Architect (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12604",
+      "name": "Clinical Sustainability & Climate Specialist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Sustainability & Climate Specialist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12609",
+      "name": "Systems Sustainability & Climate Auditor",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Auditor specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12642",
+      "name": "Sustainability & Climate Strategist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Strategist (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12674",
+      "name": "Sustainability & Climate Architect (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Architect (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12693",
+      "name": "Data Sustainability & Climate Analyst (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Analyst (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹22–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12719",
+      "name": "Data Sustainability & Climate Specialist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Specialist (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12720",
+      "name": "Creative Sustainability & Climate Developer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Developer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12721",
+      "name": "Sustainability & Climate Auditor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Auditor (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12724",
+      "name": "Regional Sustainability & Climate Liaison (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Regional Sustainability & Climate Liaison (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12749",
+      "name": "Sustainability & Climate Designer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Designer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12762",
+      "name": "Associate Sustainability & Climate Strategist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Strategist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12770",
+      "name": "Data Sustainability & Climate Auditor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Auditor (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12820",
+      "name": "Staff Sustainability & Climate Coordinator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Coordinator (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12842",
+      "name": "Technical Sustainability & Climate Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Technical Sustainability & Climate Technician (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12851",
+      "name": "Sustainability & Climate Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Operator (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12853",
+      "name": "Sustainability & Climate Engineer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Engineer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12862",
+      "name": "Virtual Sustainability & Climate Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Technician (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12877",
+      "name": "Chief Sustainability & Climate Developer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Developer (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12894",
+      "name": "Sustainability & Climate Supervisor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12907",
+      "name": "Sustainability & Climate Supervisor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12925",
+      "name": "Chief Sustainability & Climate Technician (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Technician (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12954",
+      "name": "Independent Sustainability & Climate Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Engineer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12973",
+      "name": "Sustainability & Climate Specialist",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Specialist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12987",
+      "name": "Sustainability & Climate Evangelist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Evangelist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12994",
+      "name": "Sustainability & Climate Operator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Operator (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13007",
+      "name": "Associate Sustainability & Climate Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Technician (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13012",
+      "name": "Virtual Sustainability & Climate Analyst (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Sustainability & Climate Analyst (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13031",
+      "name": "Lead Sustainability & Climate Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Lead Sustainability & Climate Trainer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13034",
+      "name": "Applied Sustainability & Climate Trainer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Trainer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13058",
+      "name": "Junior Sustainability & Climate Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Junior Sustainability & Climate Researcher (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13104",
+      "name": "Sustainability & Climate Supervisor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13111",
+      "name": "Sustainability & Climate Strategist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Strategist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹27–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13115",
+      "name": "Sustainability & Climate Evangelist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Evangelist (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13251",
+      "name": "Sustainability & Climate Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Developer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13256",
+      "name": "Strategic Sustainability & Climate Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Sustainability & Climate Evangelist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13263",
+      "name": "Executive Sustainability & Climate Analyst (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Executive Sustainability & Climate Analyst (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13273",
+      "name": "Staff Sustainability & Climate Scientist",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Scientist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13331",
+      "name": "Sustainability & Climate Planner (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Planner (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13344",
+      "name": "Sustainability & Climate Evangelist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Evangelist (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13352",
+      "name": "Independent Sustainability & Climate Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Architect (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13363",
+      "name": "Data Sustainability & Climate Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Evangelist (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13365",
+      "name": "Remote Sustainability & Climate Supervisor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Supervisor (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13372",
+      "name": "Sustainability & Climate Researcher",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Researcher specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13375",
+      "name": "Senior Sustainability & Climate Developer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Senior Sustainability & Climate Developer (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13395",
+      "name": "Sustainability & Climate Analyst (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Analyst (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13408",
+      "name": "Applied Sustainability & Climate Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Strategist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13456",
+      "name": "Sustainability & Climate Consultant",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Consultant specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹21–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13457",
+      "name": "Sustainability & Climate Trainer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Trainer (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13470",
+      "name": "Creative Sustainability & Climate Strategist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Strategist (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13496",
+      "name": "Principal Sustainability & Climate Engineer",
+      "hook": "Lead and execute strategic initiatives as a Principal Sustainability & Climate Engineer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13502",
+      "name": "Creative Sustainability & Climate Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Sustainability & Climate Coordinator (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13535",
+      "name": "Global Sustainability & Climate Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Global Sustainability & Climate Engineer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13542",
+      "name": "Sustainability & Climate Architect (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Architect (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13554",
+      "name": "Sustainability & Climate Coordinator",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Coordinator specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13566",
+      "name": "Sustainability & Climate Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Analyst (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13584",
+      "name": "Staff Sustainability & Climate Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Evangelist (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13600",
+      "name": "Independent Sustainability & Climate Scientist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Scientist (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹8–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13609",
+      "name": "Data Sustainability & Climate Auditor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Auditor (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13643",
+      "name": "Cloud Sustainability & Climate Director (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Sustainability & Climate Director (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13664",
+      "name": "Computational Sustainability & Climate Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Manager (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13702",
+      "name": "Data Sustainability & Climate Director (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Data Sustainability & Climate Director (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹9–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13725",
+      "name": "Systems Sustainability & Climate Coordinator",
+      "hook": "Lead and execute strategic initiatives as a Systems Sustainability & Climate Coordinator specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13731",
+      "name": "Sustainability & Climate Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Developer (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13755",
+      "name": "Executive Sustainability & Climate Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Executive Sustainability & Climate Manager (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13768",
+      "name": "Computational Sustainability & Climate Strategist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Strategist (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13791",
+      "name": "Sustainability & Climate Designer",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Designer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹26–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13838",
+      "name": "Junior Sustainability & Climate Architect",
+      "hook": "Lead and execute strategic initiatives as a Junior Sustainability & Climate Architect specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13867",
+      "name": "Sustainability & Climate Consultant (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Consultant (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹12–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13871",
+      "name": "Applied Sustainability & Climate Designer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Designer (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13884",
+      "name": "Founding Sustainability & Climate Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Strategist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13895",
+      "name": "Associate Sustainability & Climate Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Liaison (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13909",
+      "name": "Applied Sustainability & Climate Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Applied Sustainability & Climate Supervisor (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13912",
+      "name": "Computational Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Computational Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹10–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13913",
+      "name": "Staff Sustainability & Climate Engineer",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Engineer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13948",
+      "name": "Independent Sustainability & Climate Analyst (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Independent Sustainability & Climate Analyst (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13949",
+      "name": "Remote Sustainability & Climate Engineer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Engineer (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13973",
+      "name": "Sustainability & Climate Supervisor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Supervisor (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹13–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13976",
+      "name": "Associate Sustainability & Climate Analyst",
+      "hook": "Lead and execute strategic initiatives as a Associate Sustainability & Climate Analyst specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹16–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13998",
+      "name": "Chief Sustainability & Climate Manager (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Chief Sustainability & Climate Manager (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹11–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14001",
+      "name": "Staff Sustainability & Climate Planner",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Planner specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14030",
+      "name": "Sustainability & Climate Operator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Operator (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14036",
+      "name": "Founding Sustainability & Climate Strategist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Founding Sustainability & Climate Strategist (North America) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹18–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14062",
+      "name": "Technical Sustainability & Climate Developer",
+      "hook": "Lead and execute strategic initiatives as a Technical Sustainability & Climate Developer specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹14–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14096",
+      "name": "Sustainability & Climate Strategist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Strategist (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹17–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14103",
+      "name": "Remote Sustainability & Climate Developer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Developer (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14120",
+      "name": "Sustainability & Climate Analyst (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Sustainability & Climate Analyst (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹25–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14124",
+      "name": "Enterprise Sustainability & Climate Liaison (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Sustainability & Climate Liaison (APAC) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14134",
+      "name": "Enterprise Sustainability & Climate Evangelist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Sustainability & Climate Evangelist (B2C) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14161",
+      "name": "Principal Sustainability & Climate Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Principal Sustainability & Climate Manager (Startups) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹20–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14163",
+      "name": "Junior Sustainability & Climate Director (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Junior Sustainability & Climate Director (B2B) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹23–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14211",
+      "name": "Strategic Sustainability & Climate Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Sustainability & Climate Engineer (Enterprise) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹24–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14213",
+      "name": "Staff Sustainability & Climate Strategist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff Sustainability & Climate Strategist (EMEA) specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹19–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14215",
+      "name": "Remote Sustainability & Climate Scientist",
+      "hook": "Lead and execute strategic initiatives as a Remote Sustainability & Climate Scientist specializing in Sustainability & Climate.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Science & Research"
+      ],
+      "salaryRange": "₹15–32 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

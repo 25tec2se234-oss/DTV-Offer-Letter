@@ -1,0 +1,184 @@
+{
+  "domain": "Govt Exams",
+  "id": "govt-exams",
+  "color": "#ff3b3b",
+  "pathCount": 16,
+  "paths": [
+    {
+      "id": "bpsc",
+      "name": "BPSC (Bihar Public Service Commission)",
+      "hook": "Prepare for administrative, police, and revenue officer posts in Bihar state government.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹6–15 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "upsc",
+      "name": "UPSC CSE (IAS / IPS / IFS)",
+      "hook": "India's premier civil service exam for top administrative, police, and diplomatic leadership roles.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹7–22 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ssc",
+      "name": "SSC (Staff Selection Commission)",
+      "hook": "Central government recruitment for various group B and C non-gazetted technical and non-technical posts.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹4–12 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ssccgl",
+      "name": "SSC CGL (Combined Graduate Level)",
+      "hook": "Recruitment for top central inspector, assistant section officer, and auditor roles in ministries.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹6–16 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "sscchsl",
+      "name": "SSC CHSL (Combined Higher Secondary Level)",
+      "hook": "Gateway for postal assistants, sorting assistants, and data entry operators in central departments.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹3–9 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "banking",
+      "name": "Banking (IBPS, SBI PO)",
+      "hook": "Become a Probationary Officer or specialist manager in India's top public sector banks.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "nda",
+      "name": "NDA (National Defence Academy)",
+      "hook": "Enter the Indian Army, Navy, and Air Force as a prestigious commissioned officer right after 10+2.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "upsc_ias",
+      "name": "UPSC CSE IAS",
+      "hook": "India's premier administrative service commanding district administration, public policy formulation, and high-level government governance.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ssc_gd",
+      "name": "SSC GD Constable",
+      "hook": "General duty paramedical and armed defense units securing international borders and maintaining internal sovereign peace.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "nda_cadre",
+      "name": "NDA Armed Forces Cadre",
+      "hook": "National Defence Academy executive officer pipeline creating future military commanders for Army, Navy, and Air Force.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "in_commander",
+      "name": "Indian Navy Fleet Commander",
+      "hook": "Navigating maritime combat fleets, nuclear submarines, and naval aviation assets across strategic oceanic territories.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "crpf_commando",
+      "name": "CRPF Commando & Commandant",
+      "hook": "Central Reserve Police Force specialized tactical units spearheading internal security and counter-insurgency operations.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cisf_chief",
+      "name": "CISF Industrial Security Chief",
+      "hook": "Securing critical national economic infrastructure including international airports, aerospace ports, and nuclear installations.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ssb_commander",
+      "name": "SSB Border Intelligence Commander",
+      "hook": "Securing strategic friendly borders and executing regional counter-intelligence and anti-smuggling tactical mandates.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "raw_agent",
+      "name": "RAW External Counter-Intell Operative",
+      "hook": "Research and Analysis Wing elite foreign intelligence operatives defending national geopolitical interests worldwide.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bank_clerk",
+      "name": "Bank Clerk & Cash Administrator",
+      "hook": "Core banking transaction management, financial customer service, and daily liquidity tracking for banking institutions.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Govt Exams"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

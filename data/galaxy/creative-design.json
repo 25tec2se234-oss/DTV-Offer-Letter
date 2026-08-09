@@ -1,0 +1,5112 @@
+{
+  "domain": "Creative & Design",
+  "id": "creative-design",
+  "color": "#10b981",
+  "pathCount": 464,
+  "paths": [
+    {
+      "id": "uxd",
+      "name": "UI/UX Designer",
+      "hook": "Design intuitive, beautiful digital experiences that users love.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹5–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ca",
+      "name": "Chartered Accountant",
+      "hook": "Expert financial professional providing audit, tax, and advisory services.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹7–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cc",
+      "name": "Content Creator",
+      "hook": "Create engaging content across platforms — YouTube, Instagram, LinkedIn, blogs.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹2–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vfx",
+      "name": "VFX Artist",
+      "hook": "Create photorealistic visual effects and animations for films, TV, and games.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹4–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cw",
+      "name": "Content Writer",
+      "hook": "Create compelling written content for websites, blogs, and marketing campaigns.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹3–15 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "anim",
+      "name": "Animator",
+      "hook": "Bring characters and objects to life using 2D/3D animation techniques.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹3–22 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "makeup",
+      "name": "Makeup Artist",
+      "hook": "Enhance natural beauty and craft stunning visual transformations for fashion, cinema, and bridal events.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹4–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion Designer",
+      "hook": "Create trendsetting apparel, haute couture, and innovative lifestyle fashion collections.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹5–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "graphic",
+      "name": "Graphic Designer",
+      "hook": "Communicate powerful visual concepts, branding, and marketing designs using state-of-the-art digital tools.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹4–22 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "videoed",
+      "name": "Video Editor",
+      "hook": "Weave raw footage, sound design, and visual effects into captivating cinematic stories and digital content.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹4–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "photo",
+      "name": "Photographer",
+      "hook": "Capture breathtaking images and visual memories across commercial, fashion, wildlife, and event photography.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹4–22 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "nid",
+      "name": "NID (National Institute of Design)",
+      "hook": "The ultimate benchmark for industrial design, visual communication, and animation education in India.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "crispr",
+      "name": "CRISPR Gene Editor",
+      "hook": "Utilize advanced CRISPR-Cas9 molecular shears to edit genetic code, eliminate hereditary disorders, and optimize cellular expression.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cogergonomic",
+      "name": "Cognitive Ergonomics Designer",
+      "hook": "Re-engineer complex cockpit, surgical, and command interfaces to match the exact neurological bandwidth and visual processing limits of human operators.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vrchoreographer",
+      "name": "Immersion VR Choreographer",
+      "hook": "Design spatial movement flows, physics interactions, and haptic feedback maps for fully immersive VR environments and metaverse experiences.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "dronelightshow",
+      "name": "Autonomous Drone Swarm Light Show Choreographer",
+      "hook": "Program precise 3D flight coordinate matrices for thousands of LED micro-drones to paint vast, synchronized celestial art in the night sky.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "nanomed",
+      "name": "Nano-Medicine Delivery Vector Designer",
+      "hook": "Engineer microscopic lipid nanoparticles and targeted dendrimers to transport therapeutic drug payloads directly inside malignant cancer cells.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hydroterpene",
+      "name": "Hydroponic Terpene & Botanical Designer",
+      "hook": "Manipulate nutrient solution salinity and spectrum tuning to maximize the medicinal active compounds and exotic aromas in luxury medicinal herbs.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hapsflight",
+      "name": "High-Altitude Pseudo-Satellite Flight Director",
+      "hook": "Pilot massive solar-powered unmanned gliders operating in the stratosphere for months at a time to provide global telecom coverage and persistent radar.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "algaebiogre",
+      "name": "Algae Carbon Bioreactor Superintendent",
+      "hook": "Operate industrial-scale bubbling algae photobioreactors that transform factory flue gas into premium animal feed protein and bio-fuels.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "memorycartographer",
+      "name": "Cognitive Memory Cartographer",
+      "hook": "Map neural engram pathways using high-resolution functional imaging to preserve and stimulate failing memory in Alzheimer's patients.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche16",
+      "name": "Mycelium Structural Dampening Designer",
+      "hook": "Grow dense fungal mycelium sub-flooring foundations that absorb seismic shockwaves beneath towering skyscrapers.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche25",
+      "name": "Bionic Iris UI HUD Designer",
+      "hook": "Blueprint ultra-crisp augmented reality heads-up displays projected directly onto the user's retina via smart contact lenses.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche54",
+      "name": "Immersion VR Spatial Choreographer",
+      "hook": "Design spatial movement flows, vestibular comfort loops, and haptic feedback maps for fully immersive VR virtual environments.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ca_specialist",
+      "name": "Chartered Accountant (CA)",
+      "hook": "Elite statutory accounting, direct/indirect taxation strategy, and corporate financial advisory for multibillion-dollar enterprises.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cfa_expert",
+      "name": "Chartered Financial Analyst (CFA)",
+      "hook": "Globally recognized investment management, portfolio valuation, and equity equity research authority.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "nid_expert",
+      "name": "NID Master Industrial Designer",
+      "hook": "National Institute of Design flagship specialists crafting ergonomic, highly sustainable physical consumer hardware.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "uceed_pro",
+      "name": "UCEED Design Innovator",
+      "hook": "Undergraduate design thinkers blending beautiful aesthetics with deep engineering functionality for consumer technology.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "fashion_designer",
+      "name": "Haute Couture Fashion Designer",
+      "hook": "Conceptualizing and crafting high-end apparel collections, seasonal runway lines, and bespoke celebrity wardrobe styles.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "interior_designer",
+      "name": "Luxury Interior Space Designer",
+      "hook": "Transforming architectural blueprints into premium, highly functional, and aesthetically breathtaking residential and commercial spaces.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "graphic_designer",
+      "name": "Corporate Identity Graphic Designer",
+      "hook": "Crafting pixel-perfect visual brand identities, marketing layouts, and engaging visual print materials for elite corporate clients.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ui_designer",
+      "name": "Interactive UI Designer",
+      "hook": "Architecting gorgeous, highly engaging digital user interfaces, micro-animations, and visual component systems for applications.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ux_designer",
+      "name": "Experience Journey UX Designer",
+      "hook": "Conducting empirical user psychology research and mapping frictionless digital workflows for complex enterprise software.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "animator_3d",
+      "name": "Senior Character Animator",
+      "hook": "Breathing life into 3D character rigging models and digital environments for global blockbuster animation and gaming studios.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vfx_artist",
+      "name": "Hollywood Feature VFX Artist",
+      "hook": "Creating hyper-realistic digital visual effects, explosive simulations, and CGI environmental composites for major motion pictures.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "game_artist",
+      "name": "AAA Studio Game Artist",
+      "hook": "Sculpting high-fidelity 3D assets, texturing materials, and concept environments for immersive next-generation video games.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "makeup_artist",
+      "name": "Prosthetic & Celebrity Makeup Artist",
+      "hook": "Executing advanced cosmetic transformations, film prosthetics, and high-fashion runway editorial styling.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "film_director",
+      "name": "Feature Film Director",
+      "hook": "Commanding the ultimate creative storytelling vision, leading elite casts and massive cinematic production crews on set.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "video_editor",
+      "name": "Cinematic Video Editor",
+      "hook": "Splicing raw camera footage, color grading, and sound mixing into compelling, award-winning narrative cinematic sequences.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cinematographer",
+      "name": "Director of Photography (Cinematographer)",
+      "hook": "Designing lighting grids, camera lensing selections, and optical compositions to capture beautiful motion picture aesthetics.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "music_producer",
+      "name": "Spatial Audio Music Producer",
+      "hook": "Composing, arranging, and mastering high-fidelity musical tracks, beat productions, and immersive Dolby Atmos audio landscapes.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "actor_theatre",
+      "name": "Method Screen & Theatre Actor",
+      "hook": "Embodying dramatic fictional characters across major theatrical stages, cinematic motion pictures, and digital streaming series.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "content_creator_p",
+      "name": "Viral Digital Content Creator",
+      "hook": "Producing highly engaging digital multimedia properties, educational infomercials, and entertaining global streaming assets.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "pro_photographer",
+      "name": "Commercial Fashion Photographer",
+      "hook": "Capturing breathtaking high-fashion lookbooks, premium commercial print campaigns, and fine art photographic masterworks.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vr_choreo_p",
+      "name": "Virtual Reality Immersive Choreographer",
+      "hook": "Directing real-time motion capture actor performances and spatial user experience layouts inside fully immersive VR metaverses.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-artist",
+      "name": "Artist",
+      "hook": "Master the intricacies of being a Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-designer",
+      "name": "Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-smart",
+      "name": "Smart",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Smart.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-writer",
+      "name": "Writer",
+      "hook": "Master the intricacies of being a Writer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-vlsi-design",
+      "name": "VLSI Design",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled VLSI Design.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-design",
+      "name": "Design",
+      "hook": "Master the intricacies of being a Design to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-earthquake",
+      "name": "Earthquake",
+      "hook": "Master the intricacies of being a Earthquake to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-cad-design",
+      "name": "CAD Design",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled CAD Design.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-pv-design",
+      "name": "PV Design",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled PV Design.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-chiropractor",
+      "name": "Chiropractor",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Chiropractor.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-particle",
+      "name": "Particle",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Particle.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-screenwriter",
+      "name": "Screenwriter",
+      "hook": "Master the intricacies of being a Screenwriter to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-editor-publishing",
+      "name": "Editor (Publishing)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Editor (Publishing).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ghostwriter",
+      "name": "Ghostwriter",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Ghostwriter.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-copywriter",
+      "name": "Copywriter",
+      "hook": "Master the intricacies of being a Copywriter to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-actor",
+      "name": "Actor",
+      "hook": "Master the intricacies of being a Actor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-artisan",
+      "name": "Artisan",
+      "hook": "Master the intricacies of being a Artisan to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-art",
+      "name": "Art",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Art.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-editor",
+      "name": "Editor",
+      "hook": "Master the intricacies of being a Editor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-designer-film",
+      "name": "Designer (Film)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Designer (Film).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-music",
+      "name": "Music",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Music.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-photographer-videographer",
+      "name": "Photographer/Videographer",
+      "hook": "Master the intricacies of being a Photographer/Videographer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-artist-vfx",
+      "name": "Artist (VFX)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Artist (VFX).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-musician",
+      "name": "Musician",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Musician.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-designer-games",
+      "name": "Designer (Games)",
+      "hook": "Master the intricacies of being a Designer (Games) to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-choreographer",
+      "name": "Choreographer",
+      "hook": "Master the intricacies of being a Choreographer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ux-writer",
+      "name": "UX Writer",
+      "hook": "Master the intricacies of being a UX Writer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-director",
+      "name": "Director",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-designer-theatre",
+      "name": "Designer (Theatre)",
+      "hook": "Master the intricacies of being a Designer (Theatre) to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-biodesign",
+      "name": "Biodesign",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Biodesign.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-editorial",
+      "name": "Editorial",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Editorial.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ui-designer",
+      "name": "UI Designer",
+      "hook": "Master the intricacies of being a UI Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-creator",
+      "name": "Creator",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Creator.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-martial",
+      "name": "Martial",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Martial.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-arts",
+      "name": "Arts",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Arts.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-charter",
+      "name": "Charter",
+      "hook": "Master the intricacies of being a Charter to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-stylist",
+      "name": "Stylist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Stylist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-bartender-mixologist",
+      "name": "Bartender / Mixologist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Bartender / Mixologist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-underwriter",
+      "name": "Underwriter",
+      "hook": "Master the intricacies of being a Underwriter to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-hr-business-partner",
+      "name": "HR Business Partner",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled HR Business Partner.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-insurance-underwriter",
+      "name": "Insurance Underwriter",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Insurance Underwriter.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-sketch-artist",
+      "name": "Sketch Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Sketch Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-concept-artist",
+      "name": "Concept Artist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Concept Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-comic-book-artist",
+      "name": "Comic Book Artist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Comic Book Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-manga-artist",
+      "name": "Manga Artist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Manga Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-mural-artist",
+      "name": "Mural Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Mural Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-calligraphy-artist",
+      "name": "Calligraphy Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Calligraphy Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-theatre-artist",
+      "name": "Theatre Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Theatre Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-voice-actor",
+      "name": "Voice Actor",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Voice Actor.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-music-composer",
+      "name": "Music Composer",
+      "hook": "Master the intricacies of being a Music Composer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-music-director",
+      "name": "Music Director",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Music Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-film-director",
+      "name": "Film Director",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Film Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-film-editor",
+      "name": "Film Editor",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Film Editor.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-production-designer",
+      "name": "Production Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Production Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-art-director",
+      "name": "Art Director",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Art Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-assistant-director",
+      "name": "Assistant Director",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Assistant Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-casting-director",
+      "name": "Casting Director",
+      "hook": "Master the intricacies of being a Casting Director to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-game-designer",
+      "name": "Game Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Game Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-level-designer",
+      "name": "Level Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Level Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-environment-artist",
+      "name": "Environment Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Environment Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-character-designer",
+      "name": "Character Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Character Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-creature-artist",
+      "name": "Creature Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Creature Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-storyboard-artist",
+      "name": "Storyboard Artist",
+      "hook": "Master the intricacies of being a Storyboard Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-lighting-artist",
+      "name": "Lighting Artist",
+      "hook": "Master the intricacies of being a Lighting Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-texture-artist",
+      "name": "Texture Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Texture Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-rigging-artist",
+      "name": "Rigging Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Rigging Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-motion-designer",
+      "name": "Motion Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Motion Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-interaction-designer",
+      "name": "Interaction Designer",
+      "hook": "Master the intricacies of being a Interaction Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-experience-designer",
+      "name": "Experience Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Experience Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-information-designer",
+      "name": "Information Designer",
+      "hook": "Master the intricacies of being a Information Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-visual-communication-designer",
+      "name": "Visual Communication Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Visual Communication Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-typography-designer",
+      "name": "Typography Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Typography Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-icon-designer",
+      "name": "Icon Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Icon Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-infographic-designer",
+      "name": "Infographic Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Infographic Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-design-researcher",
+      "name": "Design Researcher",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Design Researcher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-product-designer",
+      "name": "Product Designer",
+      "hook": "Master the intricacies of being a Product Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-furniture-designer",
+      "name": "Furniture Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Furniture Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-toy-designer",
+      "name": "Toy Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Toy Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-packaging-designer",
+      "name": "Packaging Designer",
+      "hook": "Master the intricacies of being a Packaging Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-automobile-designer",
+      "name": "Automobile Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Automobile Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-transportation-designer",
+      "name": "Transportation Designer",
+      "hook": "Master the intricacies of being a Transportation Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-exhibition-designer",
+      "name": "Exhibition Designer",
+      "hook": "Master the intricacies of being a Exhibition Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-set-designer",
+      "name": "Set Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Set Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-textile-designer",
+      "name": "Textile Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Textile Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-fashion-stylist",
+      "name": "Fashion Stylist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Fashion Stylist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-costume-designer",
+      "name": "Costume Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Costume Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-jewelry-designer",
+      "name": "Jewelry Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Jewelry Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-accessory-designer",
+      "name": "Accessory Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Accessory Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-footwear-designer",
+      "name": "Footwear Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Footwear Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-wedding-photographer",
+      "name": "Wedding Photographer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Wedding Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-wildlife-photographer",
+      "name": "Wildlife Photographer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Wildlife Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-sports-photographer",
+      "name": "Sports Photographer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Sports Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-food-photographer",
+      "name": "Food Photographer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Food Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-travel-photographer",
+      "name": "Travel Photographer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Travel Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-documentary-photographer",
+      "name": "Documentary Photographer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Documentary Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-product-photographer",
+      "name": "Product Photographer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Product Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-drone-photographer",
+      "name": "Drone Photographer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Drone Photographer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-script-writer",
+      "name": "Script Writer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Script Writer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-magazine-editor",
+      "name": "Magazine Editor",
+      "hook": "Master the intricacies of being a Magazine Editor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-creative-director",
+      "name": "Creative Director",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Creative Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-advertising-art-director",
+      "name": "Advertising Art Director",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Advertising Art Director.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-brand-designer",
+      "name": "Brand Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Brand Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-advertising-copywriter",
+      "name": "Advertising Copywriter",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Advertising Copywriter.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-newsletter-creator",
+      "name": "Newsletter Creator",
+      "hook": "Master the intricacies of being a Newsletter Creator to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-event-designer",
+      "name": "Event Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Event Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-wedding-designer",
+      "name": "Wedding Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Wedding Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-stage-designer",
+      "name": "Stage Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Stage Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-sound-designer",
+      "name": "Sound Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Sound Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-foley-artist",
+      "name": "Foley Artist",
+      "hook": "Master the intricacies of being a Foley Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-dubbing-artist",
+      "name": "Dubbing Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Dubbing Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ar-experience-designer",
+      "name": "AR Experience Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled AR Experience Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-vr-experience-designer",
+      "name": "VR Experience Designer",
+      "hook": "Master the intricacies of being a VR Experience Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-mixed-reality-designer",
+      "name": "Mixed Reality Designer",
+      "hook": "Master the intricacies of being a Mixed Reality Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-hologram-experience-designer",
+      "name": "Hologram Experience Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Hologram Experience Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-projection-mapping-artist",
+      "name": "Projection Mapping Artist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Projection Mapping Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-interactive-installation-designer",
+      "name": "Interactive Installation Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Interactive Installation Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-ceramic-artist",
+      "name": "Ceramic Artist",
+      "hook": "Master the intricacies of being a Ceramic Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-glass-artist",
+      "name": "Glass Artist",
+      "hook": "Master the intricacies of being a Glass Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-woodworking-artist",
+      "name": "Woodworking Artist",
+      "hook": "Master the intricacies of being a Woodworking Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-metal-craft-designer",
+      "name": "Metal Craft Designer",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Metal Craft Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-leather-craft-designer",
+      "name": "Leather Craft Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Leather Craft Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-paper-artist",
+      "name": "Paper Artist",
+      "hook": "Master the intricacies of being a Paper Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-origami-artist",
+      "name": "Origami Artist",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Origami Artist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-candle-designer",
+      "name": "Candle Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Candle Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-floral-designer",
+      "name": "Floral Designer",
+      "hook": "Master the intricacies of being a Floral Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-art-teacher",
+      "name": "Art Teacher",
+      "hook": "Master the intricacies of being a Art Teacher to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-music-teacher",
+      "name": "Music Teacher",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Music Teacher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-design-mentor",
+      "name": "Design Mentor",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Design Mentor.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-luxury-experience-designer",
+      "name": "Luxury Experience Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Luxury Experience Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-floral-event-designer",
+      "name": "Floral Event Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Floral Event Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-luxury-gift-designer",
+      "name": "Luxury Gift Designer",
+      "hook": "Master the intricacies of being a Luxury Gift Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-luxury-wedding-designer",
+      "name": "Luxury Wedding Designer",
+      "hook": "Master the intricacies of being a Luxury Wedding Designer to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-prompt-artist",
+      "name": "Prompt Artist",
+      "hook": "Master the intricacies of being a Prompt Artist to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-generative-design-specialist",
+      "name": "Generative Design Specialist",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Generative Design Specialist.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-nft-art-curator",
+      "name": "NFT Art Curator",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of NFT Art Curator.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-virtual-fashion-designer",
+      "name": "Virtual Fashion Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Virtual Fashion Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-digital-human-designer",
+      "name": "Digital Human Designer",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Digital Human Designer.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-virtual-influencer-creator",
+      "name": "Virtual Influencer Creator",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Virtual Influencer Creator.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-enforcement-directorate-ed",
+      "name": "Enforcement Directorate (ED)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Enforcement Directorate (ED).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-directorate-of-revenue-intelligence-dri",
+      "name": "Directorate of Revenue Intelligence (DRI)",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Directorate of Revenue Intelligence (DRI).",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-department-of-atomic-energy",
+      "name": "Department of Atomic Energy",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Department of Atomic Energy.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10064",
+      "name": "Digital Marketing Analyst (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Analyst (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10104",
+      "name": "Digital Marketing Manager (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10121",
+      "name": "Global Digital Marketing Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Director (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10162",
+      "name": "Senior Digital Marketing Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Senior Digital Marketing Manager (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10168",
+      "name": "Digital Marketing Supervisor",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10178",
+      "name": "Founding Digital Marketing Trainer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Founding Digital Marketing Trainer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10182",
+      "name": "Digital Marketing Architect (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Architect (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10226",
+      "name": "Digital Marketing Engineer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Engineer (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10233",
+      "name": "Digital Marketing Scientist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10256",
+      "name": "Lead Digital Marketing Auditor",
+      "hook": "Lead and execute strategic initiatives as a Lead Digital Marketing Auditor specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10259",
+      "name": "Digital Marketing Designer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Designer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10272",
+      "name": "Digital Marketing Developer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Developer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10292",
+      "name": "Digital Marketing Consultant (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10298",
+      "name": "Applied Digital Marketing Manager (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Manager (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10299",
+      "name": "Digital Marketing Trainer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Trainer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10300",
+      "name": "Cloud Digital Marketing Analyst (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Digital Marketing Analyst (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10303",
+      "name": "Executive Digital Marketing Consultant (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Executive Digital Marketing Consultant (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10309",
+      "name": "Creative Digital Marketing Director (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Creative Digital Marketing Director (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10322",
+      "name": "Cloud Digital Marketing Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Cloud Digital Marketing Evangelist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10327",
+      "name": "Computational Digital Marketing Facilitator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Facilitator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10356",
+      "name": "Digital Marketing Liaison (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Liaison (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10365",
+      "name": "Digital Marketing Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10378",
+      "name": "Digital Marketing Facilitator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Facilitator (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10383",
+      "name": "Chief Digital Marketing Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Technician (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10417",
+      "name": "Digital Marketing Director (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Director (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10432",
+      "name": "Clinical Digital Marketing Trainer",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Trainer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10450",
+      "name": "Staff Digital Marketing Architect (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Architect (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10454",
+      "name": "Digital Marketing Technician (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10471",
+      "name": "Digital Marketing Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Evangelist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10487",
+      "name": "Digital Marketing Designer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Designer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10520",
+      "name": "Digital Marketing Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Liaison (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10531",
+      "name": "Digital Marketing Planner (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Planner (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10538",
+      "name": "Digital Marketing Architect",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Architect specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10541",
+      "name": "Digital Marketing Consultant (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10547",
+      "name": "Digital Marketing Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Coordinator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10550",
+      "name": "Principal Digital Marketing Facilitator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Facilitator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10572",
+      "name": "Junior Digital Marketing Designer",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Designer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10583",
+      "name": "Global Digital Marketing Researcher (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Researcher (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10603",
+      "name": "Associate Digital Marketing Designer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Designer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10623",
+      "name": "Digital Marketing Consultant (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10634",
+      "name": "Executive Digital Marketing Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Executive Digital Marketing Liaison (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10643",
+      "name": "Digital Marketing Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10705",
+      "name": "Digital Marketing Scientist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10715",
+      "name": "Applied Digital Marketing Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Scientist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10741",
+      "name": "Data Digital Marketing Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Specialist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10750",
+      "name": "Digital Marketing Analyst (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Analyst (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10819",
+      "name": "Staff Digital Marketing Technician",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Technician specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10857",
+      "name": "Digital Marketing Director (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Director (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10891",
+      "name": "Junior Digital Marketing Planner",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Planner specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10900",
+      "name": "Executive Digital Marketing Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Executive Digital Marketing Consultant (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10911",
+      "name": "Digital Marketing Planner",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Planner specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10913",
+      "name": "Enterprise Digital Marketing Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Analyst (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10915",
+      "name": "Junior Digital Marketing Analyst (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Analyst (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10916",
+      "name": "Associate Digital Marketing Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Consultant (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10933",
+      "name": "Digital Marketing Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Developer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10939",
+      "name": "Data Digital Marketing Director (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Director (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10946",
+      "name": "Remote Digital Marketing Scientist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Scientist (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10951",
+      "name": "Digital Marketing Facilitator",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Facilitator specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10974",
+      "name": "Digital Marketing Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Planner (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10990",
+      "name": "Digital Marketing Scientist",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11007",
+      "name": "Digital Marketing Manager (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11013",
+      "name": "Digital Marketing Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Evangelist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11031",
+      "name": "Strategic Digital Marketing Supervisor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Digital Marketing Supervisor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11039",
+      "name": "Digital Marketing Scientist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11083",
+      "name": "Digital Marketing Manager",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11105",
+      "name": "Digital Marketing Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11125",
+      "name": "Enterprise Digital Marketing Facilitator",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Facilitator specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11147",
+      "name": "Digital Marketing Designer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Designer (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11150",
+      "name": "Computational Digital Marketing Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Technician (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11170",
+      "name": "Digital Marketing Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11186",
+      "name": "Digital Marketing Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Liaison (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11193",
+      "name": "Strategic Digital Marketing Manager",
+      "hook": "Lead and execute strategic initiatives as a Strategic Digital Marketing Manager specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11194",
+      "name": "Enterprise Digital Marketing Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Director (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11205",
+      "name": "Chief Digital Marketing Analyst (North America)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Analyst (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11234",
+      "name": "Digital Marketing Architect (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Architect (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11237",
+      "name": "Global Digital Marketing Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Architect (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11243",
+      "name": "Enterprise Digital Marketing Architect (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Architect (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11248",
+      "name": "Applied Digital Marketing Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Technician (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11259",
+      "name": "Digital Marketing Specialist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11291",
+      "name": "Junior Digital Marketing Liaison (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Liaison (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11293",
+      "name": "Enterprise Digital Marketing Evangelist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Evangelist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11300",
+      "name": "Principal Digital Marketing Researcher (North America)",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Researcher (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11313",
+      "name": "Virtual Digital Marketing Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Manager (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11314",
+      "name": "Digital Marketing Planner (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Planner (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11318",
+      "name": "Staff Digital Marketing Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Technician (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11337",
+      "name": "Regional Digital Marketing Technician (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Technician (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11362",
+      "name": "Digital Marketing Facilitator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Facilitator (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11364",
+      "name": "Chief Digital Marketing Researcher (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Researcher (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11422",
+      "name": "Applied Digital Marketing Trainer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Trainer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11428",
+      "name": "Chief Digital Marketing Auditor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Auditor (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11429",
+      "name": "Remote Digital Marketing Developer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Developer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11430",
+      "name": "Associate Digital Marketing Consultant",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Consultant specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11451",
+      "name": "Regional Digital Marketing Scientist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Scientist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11468",
+      "name": "Applied Digital Marketing Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Trainer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11471",
+      "name": "Digital Marketing Scientist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11484",
+      "name": "Digital Marketing Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Strategist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11524",
+      "name": "Data Digital Marketing Trainer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Trainer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11525",
+      "name": "Digital Marketing Liaison (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Liaison (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11538",
+      "name": "Associate Digital Marketing Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Evangelist (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹24–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11545",
+      "name": "Digital Marketing Director",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Director specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11555",
+      "name": "Regional Digital Marketing Planner (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Planner (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11570",
+      "name": "Virtual Digital Marketing Liaison (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Liaison (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11587",
+      "name": "Global Digital Marketing Liaison (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Liaison (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11613",
+      "name": "Clinical Digital Marketing Auditor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Auditor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11625",
+      "name": "Digital Marketing Specialist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11627",
+      "name": "Digital Marketing Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Operator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11629",
+      "name": "Chief Digital Marketing Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Liaison (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11634",
+      "name": "Staff Digital Marketing Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Manager (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11635",
+      "name": "Lead Digital Marketing Planner (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Lead Digital Marketing Planner (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11639",
+      "name": "Creative Digital Marketing Supervisor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Digital Marketing Supervisor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11642",
+      "name": "Computational Digital Marketing Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Director (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11663",
+      "name": "Creative Digital Marketing Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Creative Digital Marketing Consultant (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11670",
+      "name": "Lead Digital Marketing Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Lead Digital Marketing Evangelist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11693",
+      "name": "Digital Marketing Planner (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Planner (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11705",
+      "name": "Computational Digital Marketing Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Scientist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11713",
+      "name": "Digital Marketing Trainer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Trainer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11714",
+      "name": "Enterprise Digital Marketing Auditor (North America)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Auditor (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11725",
+      "name": "Digital Marketing Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11727",
+      "name": "Digital Marketing Designer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Designer (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11829",
+      "name": "Chief Digital Marketing Operator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Operator (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11878",
+      "name": "Digital Marketing Researcher (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Researcher (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11879",
+      "name": "Digital Marketing Technician (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11880",
+      "name": "Digital Marketing Facilitator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Facilitator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11903",
+      "name": "Data Digital Marketing Developer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Developer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11924",
+      "name": "Principal Digital Marketing Consultant",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Consultant specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11929",
+      "name": "Chief Digital Marketing Consultant (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Consultant (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11930",
+      "name": "Digital Marketing Director (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Director (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11942",
+      "name": "Principal Digital Marketing Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Auditor (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11962",
+      "name": "Founding Digital Marketing Director",
+      "hook": "Lead and execute strategic initiatives as a Founding Digital Marketing Director specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11965",
+      "name": "Systems Digital Marketing Researcher (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Researcher (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11994",
+      "name": "Cloud Digital Marketing Director (North America)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Digital Marketing Director (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11997",
+      "name": "Applied Digital Marketing Manager",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Manager specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11998",
+      "name": "Digital Marketing Liaison (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Liaison (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12013",
+      "name": "Clinical Digital Marketing Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Director (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12033",
+      "name": "Digital Marketing Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Researcher (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12062",
+      "name": "Systems Digital Marketing Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Engineer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12078",
+      "name": "Applied Digital Marketing Engineer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Engineer (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹24–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12079",
+      "name": "Digital Marketing Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Engineer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12086",
+      "name": "Clinical Digital Marketing Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Coordinator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12111",
+      "name": "Systems Digital Marketing Scientist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Scientist (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12158",
+      "name": "Digital Marketing Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Director (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12193",
+      "name": "Senior Digital Marketing Facilitator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Senior Digital Marketing Facilitator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12201",
+      "name": "Junior Digital Marketing Facilitator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Facilitator (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12217",
+      "name": "Senior Digital Marketing Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Senior Digital Marketing Evangelist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12219",
+      "name": "Systems Digital Marketing Researcher (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Researcher (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12220",
+      "name": "Remote Digital Marketing Researcher (North America)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Researcher (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12228",
+      "name": "Digital Marketing Strategist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Strategist (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹24–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12246",
+      "name": "Digital Marketing Supervisor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12267",
+      "name": "Independent Digital Marketing Architect (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Architect (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12285",
+      "name": "Digital Marketing Evangelist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Evangelist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12303",
+      "name": "Digital Marketing Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Engineer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12308",
+      "name": "Junior Digital Marketing Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Liaison (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12326",
+      "name": "Data Digital Marketing Manager (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Manager (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12345",
+      "name": "Enterprise Digital Marketing Engineer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Engineer (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12349",
+      "name": "Digital Marketing Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12352",
+      "name": "Digital Marketing Supervisor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12353",
+      "name": "Digital Marketing Developer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Developer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12358",
+      "name": "Enterprise Digital Marketing Facilitator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Facilitator (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12371",
+      "name": "Digital Marketing Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12372",
+      "name": "Systems Digital Marketing Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Director (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12396",
+      "name": "Applied Digital Marketing Coordinator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Coordinator (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12404",
+      "name": "Digital Marketing Supervisor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12407",
+      "name": "Chief Digital Marketing Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Consultant (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12429",
+      "name": "Independent Digital Marketing Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Operator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12450",
+      "name": "Remote Digital Marketing Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Manager (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12475",
+      "name": "Founding Digital Marketing Technician (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Founding Digital Marketing Technician (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12493",
+      "name": "Computational Digital Marketing Designer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Designer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12508",
+      "name": "Digital Marketing Specialist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12510",
+      "name": "Digital Marketing Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Auditor (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12544",
+      "name": "Virtual Digital Marketing Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Operator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12545",
+      "name": "Digital Marketing Auditor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Auditor (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12548",
+      "name": "Digital Marketing Specialist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12549",
+      "name": "Independent Digital Marketing Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Director (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12601",
+      "name": "Junior Digital Marketing Consultant (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Consultant (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12635",
+      "name": "Digital Marketing Auditor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Auditor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12644",
+      "name": "Applied Digital Marketing Evangelist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Evangelist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12645",
+      "name": "Computational Digital Marketing Supervisor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Supervisor (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12655",
+      "name": "Systems Digital Marketing Supervisor",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Supervisor specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12658",
+      "name": "Global Digital Marketing Coordinator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Coordinator (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12698",
+      "name": "Remote Digital Marketing Architect (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Architect (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12737",
+      "name": "Clinical Digital Marketing Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Consultant (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12747",
+      "name": "Regional Digital Marketing Developer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Developer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12778",
+      "name": "Digital Marketing Operator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Operator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12789",
+      "name": "Clinical Digital Marketing Scientist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Scientist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12807",
+      "name": "Enterprise Digital Marketing Evangelist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Evangelist (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12812",
+      "name": "Regional Digital Marketing Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Trainer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12821",
+      "name": "Global Digital Marketing Technician (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Technician (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12823",
+      "name": "Digital Marketing Evangelist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Evangelist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12837",
+      "name": "Remote Digital Marketing Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Director (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12859",
+      "name": "Digital Marketing Operator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Operator (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12882",
+      "name": "Technical Digital Marketing Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Technical Digital Marketing Developer (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹22–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12890",
+      "name": "Computational Digital Marketing Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Liaison (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12903",
+      "name": "Remote Digital Marketing Liaison (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Liaison (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12905",
+      "name": "Creative Digital Marketing Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Digital Marketing Coordinator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12908",
+      "name": "Digital Marketing Coordinator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Coordinator (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12918",
+      "name": "Digital Marketing Researcher (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Researcher (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12927",
+      "name": "Strategic Digital Marketing Specialist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Digital Marketing Specialist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12930",
+      "name": "Regional Digital Marketing Auditor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Auditor (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12931",
+      "name": "Virtual Digital Marketing Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Coordinator (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12949",
+      "name": "Virtual Digital Marketing Technician (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Technician (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹24–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12952",
+      "name": "Digital Marketing Consultant",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Consultant specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12955",
+      "name": "Systems Digital Marketing Developer",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Developer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12961",
+      "name": "Digital Marketing Technician",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12971",
+      "name": "Digital Marketing Manager (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12978",
+      "name": "Data Digital Marketing Trainer",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Trainer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12990",
+      "name": "Systems Digital Marketing Specialist",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Specialist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13001",
+      "name": "Systems Digital Marketing Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Evangelist (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13011",
+      "name": "Digital Marketing Specialist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Specialist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13016",
+      "name": "Junior Digital Marketing Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Liaison (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13018",
+      "name": "Digital Marketing Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Trainer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13064",
+      "name": "Lead Digital Marketing Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Lead Digital Marketing Planner (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13072",
+      "name": "Digital Marketing Engineer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Engineer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13078",
+      "name": "Chief Digital Marketing Planner (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Planner (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13118",
+      "name": "Digital Marketing Manager (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13131",
+      "name": "Applied Digital Marketing Coordinator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Coordinator (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13145",
+      "name": "Digital Marketing Trainer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Trainer (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13151",
+      "name": "Creative Digital Marketing Designer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative Digital Marketing Designer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13188",
+      "name": "Digital Marketing Supervisor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Supervisor (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13216",
+      "name": "Global Digital Marketing Director (North America)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Director (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13218",
+      "name": "Digital Marketing Designer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Designer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13219",
+      "name": "Staff Digital Marketing Architect (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Architect (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13247",
+      "name": "Regional Digital Marketing Analyst (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Analyst (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹9–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13264",
+      "name": "Associate Digital Marketing Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Engineer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13278",
+      "name": "Principal Digital Marketing Liaison (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Liaison (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13282",
+      "name": "Staff Digital Marketing Trainer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Trainer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13295",
+      "name": "Enterprise Digital Marketing Strategist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Strategist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13312",
+      "name": "Computational Digital Marketing Consultant (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Consultant (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13338",
+      "name": "Digital Marketing Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Manager (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13340",
+      "name": "Digital Marketing Analyst",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Analyst specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13404",
+      "name": "Remote Digital Marketing Designer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Designer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13412",
+      "name": "Digital Marketing Strategist",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Strategist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹21–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13414",
+      "name": "Enterprise Digital Marketing Liaison (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Liaison (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13429",
+      "name": "Independent Digital Marketing Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Evangelist (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13434",
+      "name": "Founding Digital Marketing Evangelist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Founding Digital Marketing Evangelist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13455",
+      "name": "Data Digital Marketing Developer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Developer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13462",
+      "name": "Principal Digital Marketing Supervisor",
+      "hook": "Lead and execute strategic initiatives as a Principal Digital Marketing Supervisor specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13472",
+      "name": "Junior Digital Marketing Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Trainer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13489",
+      "name": "Chief Digital Marketing Manager (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Chief Digital Marketing Manager (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13515",
+      "name": "Regional Digital Marketing Engineer",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Engineer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13526",
+      "name": "Enterprise Digital Marketing Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise Digital Marketing Strategist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13568",
+      "name": "Digital Marketing Technician (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Technician (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13570",
+      "name": "Clinical Digital Marketing Researcher (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Clinical Digital Marketing Researcher (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13591",
+      "name": "Junior Digital Marketing Consultant (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Consultant (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13595",
+      "name": "Junior Digital Marketing Strategist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior Digital Marketing Strategist (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13623",
+      "name": "Digital Marketing Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Scientist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13637",
+      "name": "Digital Marketing Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Researcher (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13649",
+      "name": "Founding Digital Marketing Coordinator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Founding Digital Marketing Coordinator (EMEA) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13680",
+      "name": "Digital Marketing Architect (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Architect (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13685",
+      "name": "Systems Digital Marketing Strategist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Strategist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13720",
+      "name": "Systems Digital Marketing Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Systems Digital Marketing Scientist (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹23–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13740",
+      "name": "Applied Digital Marketing Consultant",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Consultant specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹16–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13765",
+      "name": "Cloud Digital Marketing Developer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Digital Marketing Developer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13767",
+      "name": "Digital Marketing Operator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Operator (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹19–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13783",
+      "name": "Computational Digital Marketing Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Computational Digital Marketing Trainer (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13795",
+      "name": "Senior Digital Marketing Trainer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Senior Digital Marketing Trainer (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13805",
+      "name": "Digital Marketing Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Analyst (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13807",
+      "name": "Independent Digital Marketing Operator",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Operator specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13821",
+      "name": "Global Digital Marketing Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Strategist (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13823",
+      "name": "Independent Digital Marketing Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Independent Digital Marketing Manager (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹13–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13833",
+      "name": "Associate Digital Marketing Consultant (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Consultant (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13856",
+      "name": "Data Digital Marketing Scientist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Data Digital Marketing Scientist (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13860",
+      "name": "Technical Digital Marketing Specialist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Technical Digital Marketing Specialist (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13879",
+      "name": "Strategic Digital Marketing Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Strategic Digital Marketing Trainer (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹11–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13934",
+      "name": "Digital Marketing Coordinator",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Coordinator specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13986",
+      "name": "Remote Digital Marketing Auditor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Auditor (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹8–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13988",
+      "name": "Digital Marketing Auditor (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Auditor (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹14–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13992",
+      "name": "Executive Digital Marketing Designer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Executive Digital Marketing Designer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13995",
+      "name": "Remote Digital Marketing Liaison",
+      "hook": "Lead and execute strategic initiatives as a Remote Digital Marketing Liaison specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹18–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14024",
+      "name": "Associate Digital Marketing Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Associate Digital Marketing Evangelist specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹10–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14029",
+      "name": "Lead Digital Marketing Developer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Lead Digital Marketing Developer (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14053",
+      "name": "Regional Digital Marketing Engineer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Regional Digital Marketing Engineer (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14060",
+      "name": "Digital Marketing Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Architect (B2B) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹27–37 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14068",
+      "name": "Digital Marketing Facilitator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Digital Marketing Facilitator (North America) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹20–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14128",
+      "name": "Applied Digital Marketing Architect (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Applied Digital Marketing Architect (Enterprise) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹17–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14181",
+      "name": "Staff Digital Marketing Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Staff Digital Marketing Manager (APAC) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹12–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14182",
+      "name": "Cloud Digital Marketing Manager (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Cloud Digital Marketing Manager (B2C) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹15–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14198",
+      "name": "Virtual Digital Marketing Auditor (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Virtual Digital Marketing Auditor (Startups) specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹25–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14208",
+      "name": "Global Digital Marketing Designer",
+      "hook": "Lead and execute strategic initiatives as a Global Digital Marketing Designer specializing in Digital Marketing.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Creative & Design"
+      ],
+      "salaryRange": "₹26–45 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

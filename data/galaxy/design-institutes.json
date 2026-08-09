@@ -1,0 +1,85 @@
+{
+  "domain": "Design & Institutes",
+  "id": "design-institutes",
+  "color": "#10b981",
+  "pathCount": 7,
+  "paths": [
+    {
+      "id": "pearl",
+      "name": "Pearl Academy",
+      "hook": "Renowned institution offering global standards in design, fashion, media, and creative business.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹5–22 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "prostheticsculpt",
+      "name": "Prosthetic Limbs Micro-Sculptor",
+      "hook": "Merge aesthetic industrial design with neural interface robotics to create hyper-realistic, fully functional advanced bionic prosthetics.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "urbanmicro",
+      "name": "Urban Noise Micro-Acoustician",
+      "hook": "Design active acoustic cancellation arrays and dampening architecture to eradicate severe noise pollution in mega-cities and luxury residences.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche7",
+      "name": "Bioluminescent Cityscaping Agronomist",
+      "hook": "Plant genetically engineered glowing flora across urban canopy parkways to replace electric street lights.",
+      "tags": [
+        "Curated niche/future careers",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche39",
+      "name": "Active Window Acoustic Dampener",
+      "hook": "Embed active anti-phase acoustic cancellation speaker arrays directly into luxury exterior window frames to erase city traffic noise completely.",
+      "tags": [
+        "Curated niche/future careers",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche48",
+      "name": "Bio-Solar Skyscraper Integrator",
+      "hook": "Embed genetically engineered bioluminescent algae and high-efficiency building photovoltaics directly into living skyscraper curtain walls.",
+      "tags": [
+        "Curated niche/future careers",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche52",
+      "name": "Advanced Prosthetic Micro-Sculptor",
+      "hook": "Merge aesthetic industrial design with neural interface robotics to build hyper-realistic bionic prosthetics with flawless skin mimicry.",
+      "tags": [
+        "Curated niche/future careers",
+        "Design & Institutes"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

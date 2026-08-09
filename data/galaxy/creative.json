@@ -1,0 +1,96 @@
+{
+  "domain": "Creative",
+  "id": "creative",
+  "color": "#ec4899",
+  "pathCount": 8,
+  "paths": [
+    {
+      "id": "fragrancesom",
+      "name": "Bespoke Fragrance Sommelier",
+      "hook": "Combine molecular chemistry and olfactory artistry to design ultra-luxury custom scents for elite fashion houses and private clients.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative"
+      ],
+      "salaryRange": "₹8–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "exoplanetvis",
+      "name": "Exoplanetary Atmospheres Visualizer",
+      "hook": "Translate complex astrophysical data into hyper-accurate, photorealistic 3D visual renditions of distant planetary atmospheres for space agencies.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative"
+      ],
+      "salaryRange": "₹9–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche1",
+      "name": "Bespoke Holographic Sommelier",
+      "hook": "Blend multi-sensory holographic projections with elite culinary pairings in world-class experimental dining rooms.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative"
+      ],
+      "salaryRange": "₹8–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche12",
+      "name": "Neuro-Haptic Metaverse Sculptor",
+      "hook": "Model digital art installations where users feel dynamic virtual textures directly through their neural interfaces.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche30",
+      "name": "Bespoke Biometric Ambient Sound Scorer",
+      "hook": "Code real-time generative music engines that compose flowing binaural audio landscapes perfectly synchronized to a listener's live EEG brainwaves.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "singer_star",
+      "name": "Concert & Studio Singer",
+      "hook": "Delivering powerful vocal performances, recording commercial studio discographies, and commanding global live concert tours.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "pro_youtuber",
+      "name": "Million-Subscriber YouTuber",
+      "hook": "Scripting, recording, and publishing high-retention video content while managing brand integrations and digital community channels.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Creative"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche_influencer",
+      "name": "Brand Ambassador Influencer",
+      "hook": "Cultivating massive, highly loyal digital social media audiences to execute high-impact commercial product brand activations.",
+      "tags": [
+        "Curated niche/future careers",
+        "Creative"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

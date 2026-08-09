@@ -1,0 +1,184 @@
+{
+  "domain": "Technology",
+  "id": "technology",
+  "color": "#84cc16",
+  "pathCount": 16,
+  "paths": [
+    {
+      "id": "ethicalhacker",
+      "name": "Ethical Hacker",
+      "hook": "Identify and fix cybersecurity vulnerabilities in systems and networks before malicious hackers can exploit them, ensuring data safety and privacy.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "synthdetective",
+      "name": "Synthetic Media Detective",
+      "hook": "Build forensic deep-learning models to detect deepfakes, photorealistic voice cloning, and AI-generated disinformation campaigns.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹11–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hyperauto",
+      "name": "Robotic Process Hyper-Automationist",
+      "hook": "Unify enterprise software stacks with continuous AI agents and computer vision bots that eliminate manual data entry across entire organizations.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cashierless",
+      "name": "Autonomous Supermarket Sensor Fusionist",
+      "hook": "Unify ceiling camera arrays and weight-sensitive shelf sensors to enable seamless cashierless checkout experiences across massive retail chains.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche2",
+      "name": "Quantum Photonics Router Specialist",
+      "hook": "Maintain ultra-secure quantum key distribution nodes across national fiber optic infrastructures.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹15–65 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche21",
+      "name": "Zero-Gravity Semiconductor Etcher",
+      "hook": "Perform ultra-clean extreme ultraviolet lithography inside orbital cleanrooms to produce flawless quantum computing chips.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹15–72 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche44",
+      "name": "Space Debris Trajectory Tracker",
+      "hook": "Operate space-based lasers and automated grappling nets to track, capture, and de-orbit dangerous space junk threatening global satellites.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹14–62 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche45",
+      "name": "Subsea Optical Transoceanic Router",
+      "hook": "Deploy and splice deep-ocean fiber-optic transcontinental cables carrying 99% of global internet and financial trading traffic.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹14–65 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche47",
+      "name": "Synthetic Media Integrity Detective",
+      "hook": "Build forensic computer vision neural networks that instantly spot deepfakes, voice clones, and AI-generated disinformation campaigns.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche65",
+      "name": "Bio-Inspired Serpentine Roboticist",
+      "hook": "Design soft robotics and locomotion mechanisms inspired by the biological movements of snakes, octopuses, and climbing insects.",
+      "tags": [
+        "Curated niche/future careers",
+        "Technology"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "seo_expert_p",
+      "name": "Search Engine Optimization (SEO) Expert",
+      "hook": "Reverse-engineering core search engine ranking algorithms, optimizing technical web schema, and scaling organic user traffic.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "quantum_crypto_p",
+      "name": "Quantum Encryption Cryptographer",
+      "hook": "Developing unbreakable post-quantum cryptographic algorithms to protect mission-critical national security digital communication grids.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hypersonic_p",
+      "name": "Mach 5 Hypersonic Flight Dynamics Specialist",
+      "hook": "Running computational fluid dynamics models for aircraft traveling past Mach 5 in high-altitude environments to prevent thermal structure meltdown.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "battery_storage_p",
+      "name": "Ultra-High Density Battery Storage Specialist",
+      "hook": "Developing next-generation solid-state lithium-metal battery chemistry grids to power long-range electric vehicles and grid backups.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "drone_swarm_p",
+      "name": "Autonomous Swarm Drone Logistics Coordinator",
+      "hook": "Routing thousands of automated last-mile delivery aerial drones across dense metropolitan air corridors to ensure rapid package delivery.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "astrobiology_p",
+      "name": "Astrobiological Planetary Biosignature Hunter",
+      "hook": "Analyzing remote exoplanet atmospheric spectrographic data to detect organic chemical gas markers of extraterrestrial life.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Technology"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

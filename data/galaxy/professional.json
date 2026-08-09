@@ -1,0 +1,371 @@
+{
+  "domain": "Professional",
+  "id": "professional",
+  "color": "#3b82f6",
+  "pathCount": 33,
+  "paths": [
+    {
+      "id": "cs",
+      "name": "Company Secretary (CS)",
+      "hook": "Expert in corporate governance, legal compliance, and company law administration.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹6–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "digiforensic",
+      "name": "Digital Forensic Investigator",
+      "hook": "Dissect compromised computer networks, volatile RAM, and encrypted file systems to extract legally valid evidence for cyber crime prosecution.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹10–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "metavirushunt",
+      "name": "Metagenomic Virus Hunter",
+      "hook": "Survey deep jungle and oceanic water samples using next-gen DNA sequencing to discover unknown viral pathogens before they jump to humans.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "exoticanimal",
+      "name": "Exotic Animal Cryo-Conservationist",
+      "hook": "Oversee liquid nitrogen cryo-preservation facilities storing pristine genetic samples and stem cells of highly endangered planetary wildlife.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹10–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "longevity",
+      "name": "Longevity Wellness Strategist",
+      "hook": "Prescribe epigenetic lifestyle modifications, geroprotective therapies, and cellular rejuvenation protocols for extreme human longevity.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹12–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "astrobiology",
+      "name": "Astrobiology Life Detection Specialist",
+      "hook": "Analyze chemical signatures and atmospheric biosignatures from exoplanetary spectroscopy to locate extraterrestrial life across the cosmos.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "volcanoseismo",
+      "name": "Volcanological Risk Seismologist",
+      "hook": "Place thermal sensors and tiltmeters on active volcanic calderas to model subterranean magma flows and predict catastrophic eruptions.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hypersonic",
+      "name": "Hypersonic Aerodynamics Modeler",
+      "hook": "Run computational fluid dynamics models for aircraft traveling past Mach 5 in high-altitude environments to prevent thermal structure meltdown.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹15–70 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "wastewater",
+      "name": "Epidemiological Wastewater Tracker",
+      "hook": "Sample municipal sewage streams using advanced qPCR technology to catch silent infectious disease outbreaks weeks before clinical reports.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bioacoustics",
+      "name": "Bioacoustic Fauna Conservationist",
+      "hook": "Deploy AI listening pods across pristine rainforests to track endangered species populations via their distinct vocalizations and detect illegal logging.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹9–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "verticalfarm",
+      "name": "Vertical Skyfarm Agronomist",
+      "hook": "Manage automated indoor aeroponic farming towers operating under precisely tuned LED grow lights in urban centers to maximize crop yields.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹10–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "rovpilot",
+      "name": "Deep Sea Mining ROV Pilot",
+      "hook": "Control remotely operated subsea heavy mining crawlers 4,000 meters underwater from the comfort of a high-tech surface research vessel.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "hyperloop",
+      "name": "Hyperloop Maglev Simulation Modeler",
+      "hook": "Calibrate magnetic levitation and vacuum tube dynamics for 1,000 km/h next-generation terrestrial mass transit systems.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹12–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "radshield",
+      "name": "Spacecraft Radiation Shielding Specialist",
+      "hook": "Engineer magnetic deflection grids and hydrogen-rich polymer blankets to safeguard interplanetary human crews from deadly solar flare storms.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹15–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "drugrepurpose",
+      "name": "Bio-Informatics Drug Repurposing Detective",
+      "hook": "Screen thousands of existing FDA-approved drugs using AI binding simulations to discover unexpected cures for rare orphan diseases.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹12–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche3",
+      "name": "Atmospheric Vortex Extraction Pilot",
+      "hook": "Pilot heavily armored drone capture rigs into severe cyclonic funnels to harvest ultra-high kinetic energy data.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹14–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche5",
+      "name": "Deep Sea Hydrothermal Vent Miner",
+      "hook": "Operate hyper-pressure titanium mining claws to tap rare-earth minerals bubbling from abyssal thermal vents.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche8",
+      "name": "Subterranean Magma Reservoir Surveyor",
+      "hook": "Track underground magma chamber expansion using deep seismic reflection arrays to prevent municipal disasters.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹13–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche11",
+      "name": "Lunar Regolith Refining Superintendent",
+      "hook": "Direct automated solar concentrator kilns on the Moon to bake lunar dust into durable structural bricks.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹15–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche15",
+      "name": "Interstellar Asteroid Astrodynamicist",
+      "hook": "Calculate gravity-assist trajectories for deep space probes chasing rogue interstellar objects passing through our solar system.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹15–70 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche19",
+      "name": "Exoplanet Bio-Signature Spectroscopist",
+      "hook": "Search transmission spectra from space telescopes for chemical imbalances indicating living alien biospheres.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹14–65 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche22",
+      "name": "Oceanic Phytoplankton Sink Modeler",
+      "hook": "Seed deep ocean currents with iron dust to trigger immense phytoplankton blooms that permanently lock atmospheric carbon in the deep seabed.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche23",
+      "name": "Fusion Plasma Tokamak Tuner",
+      "hook": "Adjust high-power radio frequency heating waves inside magnetic confinement chambers to maintain burning fusion plasma at 100 million degrees.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹18–80 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche28",
+      "name": "Stratospheric Stratocumulus Seeding Pilot",
+      "hook": "Pilot specialized high-altitude turboprops to inject marine cloud brightening aerosols that reflect harsh sunlight away from warming coral reefs.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche32",
+      "name": "Hyperloop Maglev Suspension Modeler",
+      "hook": "Design electrodynamic suspension grids that maintain flawless pod levitation at 1,000 km/h inside low-pressure steel vacuum tubes.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹13–62 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche38",
+      "name": "Deep Sea Manganese Nodule Harvester",
+      "hook": "Pilot remote heavy subsea crawlers across deep abyssal plains to harvest polymetallic battery nodules while leaving zero environmental wake.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche43",
+      "name": "Lunar Regolith Foundation Sinterer",
+      "hook": "Direct automated microwave rovers on the Moon that melt lunar regolith dust into ultra-hard, radiation-resistant landing pads.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹15–68 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche49",
+      "name": "Exotic Fauna Cryo-Ark Guardian",
+      "hook": "Manage automated liquid nitrogen vaults storing pristine stem cells and genetic samples of highly endangered planetary wildlife.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹10–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche56",
+      "name": "Longevity Cellular Rejuvenator",
+      "hook": "Prescribe epigenetic lifestyle modifications, NAD+ therapies, and cellular senescence reversal protocols for extreme human longevity.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–62 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche58",
+      "name": "Astrobiology Biosignature Finder",
+      "hook": "Analyze atmospheric biosignatures from exoplanetary spectroscopy to locate extraterrestrial life across distant star systems.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹12–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche63",
+      "name": "Volcanological Risk Caldera Seismologist",
+      "hook": "Place thermal sensors and tiltmeters on active volcanic calderas to model subterranean magma flows and predict eruptions.",
+      "tags": [
+        "Curated niche/future careers",
+        "Professional"
+      ],
+      "salaryRange": "₹11–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "journalist_media",
+      "name": "Investigative Broadcast Journalist",
+      "hook": "Researching breaking global news, conducting hard-hitting interviews, and reporting verifiable truth across major broadcast media.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "pro_cricketer",
+      "name": "Professional Premier League Cricketer",
+      "hook": "Competing at the highest elite echelons of international cricket matches, professional franchise leagues, and global tournaments.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Professional"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

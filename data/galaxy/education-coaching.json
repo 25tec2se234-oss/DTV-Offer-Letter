@@ -1,0 +1,2912 @@
+{
+  "domain": "Education & Coaching",
+  "id": "education-coaching",
+  "color": "#8b5cf6",
+  "pathCount": 264,
+  "paths": [
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "hook": "Shape future generations with foundational education, mentorship, and pedagogical excellence.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹3–12 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "school_teacher",
+      "name": "Empowering School Teacher",
+      "hook": "Building the fundamental intellectual foundation of future generations through highly interactive and compassionate basic education.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "football_coach",
+      "name": "Tactical Head Football Coach",
+      "hook": "Commanding elite football squad tactical formations, matchday team psychology, and professional player transfer strategies.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-coach",
+      "name": "Coach",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Coach.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-educator",
+      "name": "Educator",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled Educator.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-instructor",
+      "name": "Instructor",
+      "hook": "Master the intricacies of being a Instructor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-mooc-instructor",
+      "name": "MOOC Instructor",
+      "hook": "Design, develop, and optimize cutting-edge solutions as a highly skilled MOOC Instructor.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-esl-teacher",
+      "name": "ESL Teacher",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of ESL Teacher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-tutor",
+      "name": "Tutor",
+      "hook": "Master the intricacies of being a Tutor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-dance-teacher",
+      "name": "Dance Teacher",
+      "hook": "Lead innovative projects and drive industry standards in the dynamic field of Dance Teacher.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹6–18 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-acting-coach",
+      "name": "Acting Coach",
+      "hook": "Master the intricacies of being a Acting Coach to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–40+ LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-photography-instructor",
+      "name": "Photography Instructor",
+      "hook": "Master the intricacies of being a Photography Instructor to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "c-dsssb-teacher",
+      "name": "DSSSB Teacher",
+      "hook": "Master the intricacies of being a DSSSB Teacher to deliver high-impact, real-world results.",
+      "tags": [
+        "Auto-generated (c- series, some titles broken/split)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10012",
+      "name": "EdTech Architect (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Architect (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10015",
+      "name": "Associate EdTech Coordinator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Coordinator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10036",
+      "name": "Senior EdTech Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Evangelist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10063",
+      "name": "Chief EdTech Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Chief EdTech Researcher (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10066",
+      "name": "Data EdTech Auditor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Auditor (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10081",
+      "name": "Computational EdTech Operator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Computational EdTech Operator (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10086",
+      "name": "Principal EdTech Operator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Operator (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10122",
+      "name": "EdTech Director (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Director (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10141",
+      "name": "EdTech Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Liaison (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10143",
+      "name": "EdTech Analyst (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10151",
+      "name": "Global EdTech Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Engineer (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10156",
+      "name": "EdTech Developer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10181",
+      "name": "EdTech Architect (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Architect (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10187",
+      "name": "EdTech Analyst (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10237",
+      "name": "EdTech Auditor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Auditor (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10285",
+      "name": "Virtual EdTech Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Virtual EdTech Supervisor (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10308",
+      "name": "EdTech Designer",
+      "hook": "Lead and execute strategic initiatives as a EdTech Designer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10310",
+      "name": "EdTech Auditor",
+      "hook": "Lead and execute strategic initiatives as a EdTech Auditor specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10312",
+      "name": "EdTech Designer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Designer (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10313",
+      "name": "EdTech Evangelist",
+      "hook": "Lead and execute strategic initiatives as a EdTech Evangelist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10321",
+      "name": "Independent EdTech Designer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Designer (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10333",
+      "name": "EdTech Manager",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10402",
+      "name": "Cloud EdTech Coordinator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Coordinator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10424",
+      "name": "Executive EdTech Scientist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Executive EdTech Scientist (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10427",
+      "name": "Founding EdTech Evangelist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Evangelist (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10433",
+      "name": "EdTech Technician (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10435",
+      "name": "Applied EdTech Consultant",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Consultant specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10441",
+      "name": "EdTech Consultant (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Consultant (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10466",
+      "name": "EdTech Planner (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10469",
+      "name": "Clinical EdTech Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Clinical EdTech Trainer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10483",
+      "name": "Principal EdTech Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Liaison (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10488",
+      "name": "Data EdTech Liaison (North America)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Liaison (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10502",
+      "name": "Remote EdTech Developer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Developer (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10510",
+      "name": "Junior EdTech Coordinator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Junior EdTech Coordinator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10512",
+      "name": "EdTech Auditor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Auditor (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10518",
+      "name": "Data EdTech Trainer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Trainer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10534",
+      "name": "EdTech Analyst (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10542",
+      "name": "Systems EdTech Researcher (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Researcher (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10548",
+      "name": "Principal EdTech Manager (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Manager (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10560",
+      "name": "Lead EdTech Analyst (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Analyst (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10585",
+      "name": "Independent EdTech Facilitator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Facilitator (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10586",
+      "name": "EdTech Technician (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10630",
+      "name": "Executive EdTech Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Executive EdTech Consultant (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10685",
+      "name": "EdTech Supervisor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Supervisor (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10696",
+      "name": "Enterprise EdTech Facilitator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise EdTech Facilitator (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10704",
+      "name": "EdTech Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10724",
+      "name": "Remote EdTech Technician (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Technician (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10729",
+      "name": "EdTech Facilitator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Facilitator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10731",
+      "name": "Remote EdTech Coordinator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Coordinator (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10799",
+      "name": "EdTech Designer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Designer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10816",
+      "name": "EdTech Specialist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Specialist (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10821",
+      "name": "EdTech Director (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Director (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10826",
+      "name": "Creative EdTech Analyst (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Analyst (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10840",
+      "name": "Systems EdTech Facilitator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Facilitator (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10883",
+      "name": "Systems EdTech Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Evangelist (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10910",
+      "name": "Independent EdTech Consultant (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Consultant (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10923",
+      "name": "EdTech Analyst",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10925",
+      "name": "EdTech Planner (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10927",
+      "name": "Lead EdTech Analyst",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Analyst specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10941",
+      "name": "Associate EdTech Consultant (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Consultant (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10956",
+      "name": "Remote EdTech Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Technician (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_10997",
+      "name": "EdTech Consultant (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Consultant (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11059",
+      "name": "EdTech Strategist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Strategist (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11072",
+      "name": "Data EdTech Director (North America)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Director (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11089",
+      "name": "EdTech Researcher (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Researcher (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11091",
+      "name": "EdTech Technician (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11100",
+      "name": "Enterprise EdTech Scientist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise EdTech Scientist (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11106",
+      "name": "Global EdTech Engineer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Engineer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11107",
+      "name": "EdTech Coordinator",
+      "hook": "Lead and execute strategic initiatives as a EdTech Coordinator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11122",
+      "name": "EdTech Designer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Designer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11139",
+      "name": "Creative EdTech Analyst (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Analyst (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11151",
+      "name": "Enterprise EdTech Analyst",
+      "hook": "Lead and execute strategic initiatives as a Enterprise EdTech Analyst specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11155",
+      "name": "EdTech Analyst (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11168",
+      "name": "Systems EdTech Auditor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Auditor (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11179",
+      "name": "Independent EdTech Facilitator",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Facilitator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11212",
+      "name": "Principal EdTech Designer",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Designer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11219",
+      "name": "EdTech Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11239",
+      "name": "Global EdTech Evangelist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Evangelist (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11265",
+      "name": "Lead EdTech Supervisor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Supervisor (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11268",
+      "name": "Applied EdTech Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Architect (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11280",
+      "name": "Remote EdTech Architect (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Architect (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11285",
+      "name": "EdTech Strategist",
+      "hook": "Lead and execute strategic initiatives as a EdTech Strategist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11296",
+      "name": "EdTech Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Analyst (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11351",
+      "name": "Systems EdTech Architect (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Architect (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11376",
+      "name": "Independent EdTech Consultant (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Consultant (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11414",
+      "name": "Founding EdTech Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Researcher (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11440",
+      "name": "Associate EdTech Supervisor (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Supervisor (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11448",
+      "name": "EdTech Researcher (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Researcher (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11554",
+      "name": "EdTech Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11589",
+      "name": "Clinical EdTech Analyst (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Clinical EdTech Analyst (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11598",
+      "name": "Chief EdTech Analyst (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Chief EdTech Analyst (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11602",
+      "name": "EdTech Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Trainer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11610",
+      "name": "Executive EdTech Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Executive EdTech Developer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11680",
+      "name": "Global EdTech Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Specialist (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11683",
+      "name": "EdTech Liaison (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Liaison (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11694",
+      "name": "Staff EdTech Researcher (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Researcher (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11724",
+      "name": "Computational EdTech Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational EdTech Specialist (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11734",
+      "name": "EdTech Planner (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11740",
+      "name": "Independent EdTech Liaison (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Liaison (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11755",
+      "name": "Applied EdTech Liaison (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Liaison (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11768",
+      "name": "EdTech Technician",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11787",
+      "name": "EdTech Manager (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11801",
+      "name": "Applied EdTech Liaison",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Liaison specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11807",
+      "name": "Technical EdTech Director (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Technical EdTech Director (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11809",
+      "name": "Technical EdTech Facilitator (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Technical EdTech Facilitator (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11813",
+      "name": "Data EdTech Trainer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Trainer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11819",
+      "name": "Regional EdTech Technician (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Regional EdTech Technician (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11823",
+      "name": "EdTech Facilitator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Facilitator (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11837",
+      "name": "Principal EdTech Facilitator",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Facilitator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11875",
+      "name": "Virtual EdTech Liaison (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Virtual EdTech Liaison (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11901",
+      "name": "Creative EdTech Director (North America)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Director (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11910",
+      "name": "Lead EdTech Designer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Designer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11915",
+      "name": "EdTech Technician (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11926",
+      "name": "EdTech Planner",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11928",
+      "name": "Virtual EdTech Operator (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Virtual EdTech Operator (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11953",
+      "name": "EdTech Operator",
+      "hook": "Lead and execute strategic initiatives as a EdTech Operator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11970",
+      "name": "Technical EdTech Engineer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Technical EdTech Engineer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_11999",
+      "name": "EdTech Director",
+      "hook": "Lead and execute strategic initiatives as a EdTech Director specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12008",
+      "name": "EdTech Supervisor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Supervisor (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12024",
+      "name": "EdTech Engineer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Engineer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12029",
+      "name": "EdTech Liaison (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Liaison (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12081",
+      "name": "Cloud EdTech Trainer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Trainer (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12107",
+      "name": "EdTech Scientist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Scientist (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12144",
+      "name": "EdTech Engineer (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Engineer (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12156",
+      "name": "EdTech Technician (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Technician (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12178",
+      "name": "Data EdTech Operator",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Operator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12180",
+      "name": "Independent EdTech Trainer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Trainer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12223",
+      "name": "Virtual EdTech Developer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Virtual EdTech Developer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12227",
+      "name": "Founding EdTech Consultant",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Consultant specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12231",
+      "name": "Applied EdTech Trainer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Trainer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12233",
+      "name": "Junior EdTech Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Junior EdTech Trainer (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12259",
+      "name": "Staff EdTech Auditor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Auditor (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12304",
+      "name": "EdTech Coordinator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Coordinator (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12341",
+      "name": "Virtual EdTech Scientist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Virtual EdTech Scientist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12354",
+      "name": "EdTech Evangelist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Evangelist (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12355",
+      "name": "EdTech Specialist (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Specialist (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12356",
+      "name": "Chief EdTech Architect (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Chief EdTech Architect (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12359",
+      "name": "EdTech Coordinator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Coordinator (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12376",
+      "name": "Regional EdTech Trainer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Regional EdTech Trainer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12382",
+      "name": "EdTech Supervisor (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Supervisor (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12398",
+      "name": "Associate EdTech Evangelist",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Evangelist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–39 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12403",
+      "name": "EdTech Supervisor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Supervisor (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–49 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12417",
+      "name": "Senior EdTech Liaison (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Liaison (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12449",
+      "name": "Lead EdTech Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Researcher (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12455",
+      "name": "Global EdTech Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Researcher (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12463",
+      "name": "EdTech Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12482",
+      "name": "EdTech Manager (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12505",
+      "name": "Associate EdTech Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Analyst (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12513",
+      "name": "Remote EdTech Architect (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Architect (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12517",
+      "name": "EdTech Researcher",
+      "hook": "Lead and execute strategic initiatives as a EdTech Researcher specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12519",
+      "name": "Founding EdTech Facilitator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Facilitator (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12538",
+      "name": "EdTech Planner (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12539",
+      "name": "Technical EdTech Designer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Technical EdTech Designer (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12599",
+      "name": "EdTech Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Auditor (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12602",
+      "name": "EdTech Engineer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Engineer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12603",
+      "name": "Strategic EdTech Technician (North America)",
+      "hook": "Lead and execute strategic initiatives as a Strategic EdTech Technician (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12615",
+      "name": "EdTech Architect (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Architect (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12623",
+      "name": "Applied EdTech Manager",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Manager specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12628",
+      "name": "EdTech Trainer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Trainer (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12637",
+      "name": "EdTech Trainer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Trainer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12646",
+      "name": "EdTech Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Director (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12663",
+      "name": "Remote EdTech Auditor (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Auditor (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12680",
+      "name": "EdTech Trainer",
+      "hook": "Lead and execute strategic initiatives as a EdTech Trainer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12687",
+      "name": "EdTech Coordinator (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Coordinator (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12689",
+      "name": "Computational EdTech Designer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational EdTech Designer (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–36 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12694",
+      "name": "Associate EdTech Architect (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Architect (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12710",
+      "name": "EdTech Strategist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Strategist (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12718",
+      "name": "Lead EdTech Specialist (North America)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Specialist (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12727",
+      "name": "Creative EdTech Manager (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Manager (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12732",
+      "name": "Global EdTech Scientist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Scientist (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12748",
+      "name": "EdTech Evangelist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Evangelist (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12773",
+      "name": "Regional EdTech Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Regional EdTech Developer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12774",
+      "name": "Data EdTech Scientist",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Scientist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12794",
+      "name": "Remote EdTech Designer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Designer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12803",
+      "name": "Staff EdTech Designer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Designer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12809",
+      "name": "Enterprise EdTech Planner",
+      "hook": "Lead and execute strategic initiatives as a Enterprise EdTech Planner specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12818",
+      "name": "Global EdTech Coordinator (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Coordinator (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12824",
+      "name": "Staff EdTech Researcher (North America)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Researcher (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–59 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12827",
+      "name": "Staff EdTech Coordinator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Coordinator (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12833",
+      "name": "Founding EdTech Researcher (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Researcher (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12876",
+      "name": "Staff EdTech Strategist",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Strategist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12879",
+      "name": "EdTech Evangelist (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Evangelist (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12921",
+      "name": "EdTech Facilitator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Facilitator (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12941",
+      "name": "Data EdTech Consultant (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Consultant (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12942",
+      "name": "Remote EdTech Developer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Remote EdTech Developer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_12980",
+      "name": "EdTech Planner (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Planner (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹25–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13003",
+      "name": "Senior EdTech Operator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Operator (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13005",
+      "name": "Data EdTech Developer (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Developer (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13019",
+      "name": "Senior EdTech Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Evangelist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹20–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13056",
+      "name": "Founding EdTech Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Founding EdTech Planner (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13098",
+      "name": "Senior EdTech Auditor (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Auditor (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13125",
+      "name": "Cloud EdTech Liaison (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Liaison (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13146",
+      "name": "EdTech Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Evangelist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–54 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13157",
+      "name": "Chief EdTech Facilitator (North America)",
+      "hook": "Lead and execute strategic initiatives as a Chief EdTech Facilitator (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13173",
+      "name": "EdTech Developer",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13206",
+      "name": "Lead EdTech Specialist (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Specialist (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13213",
+      "name": "Creative EdTech Developer (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Developer (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13230",
+      "name": "EdTech Consultant (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Consultant (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13257",
+      "name": "EdTech Scientist (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Scientist (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13275",
+      "name": "Junior EdTech Specialist (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Junior EdTech Specialist (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13287",
+      "name": "Enterprise EdTech Facilitator (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Enterprise EdTech Facilitator (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13335",
+      "name": "Lead EdTech Designer (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Designer (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13346",
+      "name": "EdTech Researcher (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Researcher (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13355",
+      "name": "Systems EdTech Engineer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Engineer (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–56 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13369",
+      "name": "Data EdTech Director",
+      "hook": "Lead and execute strategic initiatives as a Data EdTech Director specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13377",
+      "name": "EdTech Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Manager (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13380",
+      "name": "EdTech Developer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13416",
+      "name": "Global EdTech Specialist",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Specialist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13442",
+      "name": "EdTech Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Operator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13460",
+      "name": "Applied EdTech Consultant (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Consultant (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13481",
+      "name": "Lead EdTech Coordinator",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Coordinator specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13490",
+      "name": "Executive EdTech Strategist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Executive EdTech Strategist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹8–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13506",
+      "name": "Junior EdTech Architect (North America)",
+      "hook": "Lead and execute strategic initiatives as a Junior EdTech Architect (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13523",
+      "name": "Junior EdTech Manager (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Junior EdTech Manager (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–35 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13528",
+      "name": "Executive EdTech Strategist (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Executive EdTech Strategist (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–40 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13614",
+      "name": "Staff EdTech Liaison (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Liaison (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13678",
+      "name": "Computational EdTech Technician (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Computational EdTech Technician (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹13–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13703",
+      "name": "Creative EdTech Manager (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Manager (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13711",
+      "name": "Chief EdTech Evangelist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Chief EdTech Evangelist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13825",
+      "name": "EdTech Liaison",
+      "hook": "Lead and execute strategic initiatives as a EdTech Liaison specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–44 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13831",
+      "name": "Senior EdTech Director (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Director (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13836",
+      "name": "Lead EdTech Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Planner (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13839",
+      "name": "Associate EdTech Engineer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Associate EdTech Engineer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹12–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13847",
+      "name": "EdTech Director (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Director (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13849",
+      "name": "Independent EdTech Engineer",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Engineer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹26–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13851",
+      "name": "EdTech Researcher (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Researcher (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13852",
+      "name": "Applied EdTech Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Applied EdTech Operator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹21–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13857",
+      "name": "EdTech Engineer (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Engineer (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13863",
+      "name": "EdTech Designer (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Designer (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹16–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13880",
+      "name": "EdTech Coordinator (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Coordinator (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–34 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13890",
+      "name": "Strategic EdTech Operator (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Strategic EdTech Operator (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–32 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13892",
+      "name": "Principal EdTech Planner (B2B)",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Planner (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹11–30 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13920",
+      "name": "Creative EdTech Manager (North America)",
+      "hook": "Lead and execute strategic initiatives as a Creative EdTech Manager (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13921",
+      "name": "Strategic EdTech Planner (North America)",
+      "hook": "Lead and execute strategic initiatives as a Strategic EdTech Planner (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13952",
+      "name": "EdTech Strategist (APAC)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Strategist (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–45 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13959",
+      "name": "Clinical EdTech Analyst (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Clinical EdTech Analyst (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_13970",
+      "name": "Cloud EdTech Trainer (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Trainer (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹17–58 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14005",
+      "name": "Cloud EdTech Trainer",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Trainer specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹27–43 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14026",
+      "name": "Principal EdTech Scientist (Startups)",
+      "hook": "Lead and execute strategic initiatives as a Principal EdTech Scientist (Startups) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–51 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14027",
+      "name": "Lead EdTech Developer (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Lead EdTech Developer (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–42 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14031",
+      "name": "Staff EdTech Analyst (EMEA)",
+      "hook": "Lead and execute strategic initiatives as a Staff EdTech Analyst (EMEA) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹23–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14041",
+      "name": "EdTech Consultant",
+      "hook": "Lead and execute strategic initiatives as a EdTech Consultant specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹19–47 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14076",
+      "name": "EdTech Liaison (B2B)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Liaison (B2B) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹22–48 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14138",
+      "name": "Cloud EdTech Supervisor (Enterprise)",
+      "hook": "Lead and execute strategic initiatives as a Cloud EdTech Supervisor (Enterprise) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹9–53 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14149",
+      "name": "Global EdTech Analyst (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Global EdTech Analyst (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–33 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14160",
+      "name": "EdTech Developer (North America)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Developer (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹15–41 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14165",
+      "name": "EdTech Specialist",
+      "hook": "Lead and execute strategic initiatives as a EdTech Specialist specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹10–57 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14176",
+      "name": "Systems EdTech Consultant (North America)",
+      "hook": "Lead and execute strategic initiatives as a Systems EdTech Consultant (North America) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–46 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14180",
+      "name": "Senior EdTech Manager (B2C)",
+      "hook": "Lead and execute strategic initiatives as a Senior EdTech Manager (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹14–31 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14185",
+      "name": "EdTech Scientist (B2C)",
+      "hook": "Lead and execute strategic initiatives as a EdTech Scientist (B2C) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹24–55 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "proc_14193",
+      "name": "Independent EdTech Architect (APAC)",
+      "hook": "Lead and execute strategic initiatives as a Independent EdTech Architect (APAC) specializing in EdTech.",
+      "tags": [
+        "Auto-generated (proc_ series)",
+        "Education & Coaching"
+      ],
+      "salaryRange": "₹18–39 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "domain": "Business",
+  "id": "business",
+  "color": "#f59e0b",
+  "pathCount": 7,
+  "paths": [
+    {
+      "id": "mkt",
+      "name": "Digital Marketer",
+      "hook": "Plan and execute digital campaigns to drive growth, leads, and brand awareness.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹4–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "ib",
+      "name": "Investment Banker",
+      "hook": "Raise capital, execute mergers, and provide financial advisory to corporations.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹12–80 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "actuary",
+      "name": "Actuary",
+      "hook": "Analyze financial risk using mathematics, statistics, and financial theory.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹8–50 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "digital_marketer_p",
+      "name": "Omnichannel Digital Marketer",
+      "hook": "Allocating massive digital advertising budgets across Google, Meta, and LinkedIn to maximize customer acquisition ROI.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "quant_trader_p",
+      "name": "High-Frequency Algorithmic Quant Trader",
+      "hook": "Deploying sub-millisecond automated trading algorithms to capture multi-million dollar arbitrage opportunities in global equity markets.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "cog_ergonomics_p",
+      "name": "Cognitive Ergonomics Workflow Optimizer",
+      "hook": "Analyzing human visual attention span metrics and screen interaction patterns to design highly efficient enterprise operational software.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "dao_governor_p",
+      "name": "Decentralized Autonomous Organization (DAO) Governor",
+      "hook": "Formulating decentralized governance protocols and community voting mechanisms for massive web3 corporate treasuries.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Business"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}

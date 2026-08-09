@@ -1,0 +1,129 @@
+{
+  "domain": "Healthcare",
+  "id": "healthcare",
+  "color": "#f97316",
+  "pathCount": 11,
+  "paths": [
+    {
+      "id": "psy",
+      "name": "Psychologist / Counsellor",
+      "hook": "Support mental health and well-being through therapy, research, and counselling.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹3–20 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "vet",
+      "name": "Veterinarian",
+      "hook": "Diagnose and treat medical conditions in animals and promote animal welfare.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹5–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "pharm",
+      "name": "Pharmacist",
+      "hook": "Dispense medications, advise patients, and contribute to drug research and safety.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹3–15 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "somatician",
+      "name": "Somatic Movement Trauma Somatician",
+      "hook": "Utilize precise neuro-muscular release exercises to discharge deep chronic stress and emotional trauma stored in physical tissues.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–38 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche14",
+      "name": "Cryo-Sleep Hibernation Monitor",
+      "hook": "Regulate metabolic suppression and automated intravenous feeding for patients undergoing deep medical stasis.",
+      "tags": [
+        "Curated niche/future careers",
+        "Healthcare"
+      ],
+      "salaryRange": "₹12–60 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "niche18",
+      "name": "Metabolomic Personalized Nutritionist",
+      "hook": "Analyze continuous real-time blood metabolite telemetry to dynamically adjust custom liquid nutrient doses for elite athletes.",
+      "tags": [
+        "Curated niche/future careers",
+        "Healthcare"
+      ],
+      "salaryRange": "₹10–52 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "pharmacist_expert",
+      "name": "Pharmacology Drug Safety Expert",
+      "hook": "Compounding pharmaceutical formulations, analyzing multi-drug chemical interactions, and directing clinical pharmacy operations.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "bioprint_pro",
+      "name": "3D Organ Bioprinting Specialist",
+      "hook": "Configuring biological cell-based 3D printing grids to manufacture functional artificial human tissues and transplant organs.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "crispr_innovator_p",
+      "name": "CRISPR Gene Editing Therapeutic Innovator",
+      "hook": "Splicing precise target DNA sequences using advanced CRISPR Cas9 enzymatic therapies to permanently cure hereditary genetic diseases.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "exoskeleton_p",
+      "name": "Bionic Exoskeleton Rehabilitation Specialist",
+      "hook": "Fitting and programming motorized bionic exoskeleton suits to assist paralyzed patients in regaining full physical structural mobility.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    },
+    {
+      "id": "microbiome_longevity_p",
+      "name": "Microbiome Longevity Nutrition Strategist",
+      "hook": "Mapping gut microbiome bacterial flora profiles to formulate custom dietary pro-biotic plans that maximize human life expectancy.",
+      "tags": [
+        "Hand-curated flagship / exam-govt / creative",
+        "Healthcare"
+      ],
+      "salaryRange": "₹8–25 LPA",
+      "growthTrend": "Stable"
+    }
+  ]
+}
