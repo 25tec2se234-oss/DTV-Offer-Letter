@@ -37,7 +37,7 @@ const AdminLogin = ({ onLogin }: { onLogin: () => void }) => {
               type="email" 
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="kar98kbi@gmail.com"
+              placeholder="admin@example.com"
               className="w-full bg-[#0f1115] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-all"
               required
             />
