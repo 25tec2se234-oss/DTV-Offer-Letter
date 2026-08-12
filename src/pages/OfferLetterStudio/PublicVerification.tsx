@@ -267,8 +267,8 @@ const PublicVerification = () => {
             <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest">Original Document View</h3>
           </div>
           
-          <div className="w-full overflow-x-auto pb-8 custom-scrollbar flex justify-center">
-            <div className="relative shadow-2xl rounded-sm overflow-hidden border border-white/10 shrink-0">
+          <div className="w-full overflow-x-auto pb-8 custom-scrollbar">
+            <div className="relative shadow-2xl rounded-sm overflow-hidden border border-white/10 shrink-0 mx-auto" style={{ width: 'max-content' }}>
               <LivePreview data={offer} />
             </div>
           </div>
