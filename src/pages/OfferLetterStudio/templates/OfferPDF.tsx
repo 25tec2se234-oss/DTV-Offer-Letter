@@ -139,6 +139,16 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
   const isInternship = position_details?.employment_type?.toLowerCase().includes('intern');
   const offerTitle = isInternship ? 'Offer of Internship' : 'Offer of Employment';
 
+  let verifyUrl = 'https://digitaltwinvrs.com';
+  if (data.verification_token) {
+    const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://dtv-offer-letter-frontend.onrender.com';
+    verifyUrl = `${baseUrl}/offer/verify/${data.verification_token}`;
+  } else if (data.id) {
+    const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://dtv-offer-letter-frontend.onrender.com';
+    verifyUrl = `${baseUrl}/offer/verify/${data.id}`;
+  }
+  const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(verifyUrl)}`;
+
   return (
     <Document>
       <Page size="A4" style={styles.page}>
@@ -236,6 +246,12 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
             <Text style={styles.signatureName}>{candidate_details.name}</Text>
             <Text style={styles.signatureRole}>Accepted & Signed</Text>
           </View>
+        </View>
+
+        {/* QR Code */}
+        <View style={{ marginTop: 40, alignItems: 'center' }}>
+          <Image src={qrCodeUrl} style={{ width: 64, height: 64, marginBottom: 10 }} />
+          <Text style={{ fontSize: 9, color: '#6b7280' }}>Scan to verify authenticity of this offer letter</Text>
         </View>
 
       </Page>

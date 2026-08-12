@@ -5,7 +5,8 @@ import api from '../../utils/api';
 import { ShieldCheck, Calendar, MapPin, Briefcase, Download, CheckCircle2, XCircle, FileSignature } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LivePreview from './LivePreview';
-import html2pdf from 'html2pdf.js';
+import { pdf } from '@react-pdf/renderer';
+import OfferPDF from './templates/OfferPDF';
 
 const CandidatePortal = () => {
   const { token } = useParams();
@@ -52,9 +53,9 @@ const CandidatePortal = () => {
     }
   };
 
-  // Trigger PDF Generation once renderPDF is true and rendered off-screen
+  // Trigger PDF Generation once renderPDF is true
   useEffect(() => {
-    if (renderPDF && previewRef.current) {
+    if (renderPDF) {
       generatePDF();
     }
   }, [renderPDF]);
@@ -65,18 +66,16 @@ const CandidatePortal = () => {
   };
 
   const generatePDF = async () => {
-    if (!previewRef.current) return;
     try {
-      await document.fonts.ready; // Wait for fonts to fully load
-      const opt = {
-        margin:       [0.4, 0, 0.4, 0],
-        filename:     `Offer_Letter_${offer.candidate_details?.name || 'Candidate'}.pdf`,
-        image:        { type: 'jpeg', quality: 1 },
-        html2canvas:  { scale: 3, useCORS: true, letterRendering: true, allowTaint: true },
-        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' },
-        pagebreak:    { mode: ['css', 'legacy'] }
-      };
-      await html2pdf().set(opt).from(previewRef.current).save();
+      const blob = await pdf(<OfferPDF data={offer} settings={{}} />).toBlob();
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `Offer_Letter_${offer.candidate_details?.name || 'Candidate'}.pdf`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      URL.revokeObjectURL(url);
     } catch (err: any) {
       console.error("PDF generation error: ", err);
       alert(`Failed to generate PDF: ${err.message || JSON.stringify(err)}`);
@@ -192,12 +191,7 @@ const CandidatePortal = () => {
   return (
     <div className="min-h-screen bg-[#0f1115] py-16 px-4 sm:px-6 lg:px-8 font-sans selection:bg-indigo-500/30">
       
-      {/* Hidden PDF Container */}
-      <div style={{ position: 'absolute', top: '-9999px', left: '-9999px', zIndex: -1 }}>
-        <div ref={previewRef} style={{ width: '210mm' }}>
-          {renderPDF && <LivePreview data={offer} />}
-        </div>
-      </div>
+      {/* PDF is now generated entirely by @react-pdf/renderer */}
 
       <AnimatePresence>
         {actionType && (

@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 import { Plus, Search, FileText, CheckCircle, XCircle, Clock, Edit, Eye, Download, Sparkles, Filter, MoreHorizontal, Trash2, Link as LinkIcon } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import api from '../../utils/api';
-import html2pdf from 'html2pdf.js';
+import { pdf } from '@react-pdf/renderer';
+import OfferPDF from './templates/OfferPDF';
 import LivePreview from './LivePreview';
 
 const Dashboard = () => {
@@ -33,9 +34,9 @@ const Dashboard = () => {
     fetchOffers();
   }, []);
 
-  // Trigger PDF Generation once offerToDownload is set and rendered off-screen
+  // Trigger PDF Generation once offerToDownload is set
   useEffect(() => {
-    if (offerToDownload && previewRef.current) {
+    if (offerToDownload) {
       generatePDF();
     }
   }, [offerToDownload]);
@@ -84,18 +85,17 @@ const Dashboard = () => {
   };
 
   const generatePDF = async () => {
-    if (!previewRef.current || !offerToDownload) return;
+    if (!offerToDownload) return;
     try {
-      await document.fonts.ready; // Wait for fonts to fully load to avoid font distortion
-      const opt = {
-        margin:       [0.4, 0, 0.4, 0], // Top/Bottom margin to prevent touching edges
-        filename:     `Offer_Letter_${offerToDownload.candidate_details?.name || 'Candidate'}.pdf`,
-        image:        { type: 'jpeg', quality: 1 },
-        html2canvas:  { scale: 3, useCORS: true, letterRendering: true, allowTaint: true },
-        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' },
-        pagebreak:    { mode: ['css', 'legacy'] }
-      };
-      await html2pdf().set(opt).from(previewRef.current).save();
+      const blob = await pdf(<OfferPDF data={offerToDownload} settings={{}} />).toBlob();
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `Offer_Letter_${offerToDownload.candidate_details?.name || 'Candidate'}.pdf`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      URL.revokeObjectURL(url);
     } catch (err) {
       console.error("PDF generation error: ", err);
       alert("Failed to generate PDF");
@@ -144,15 +144,6 @@ const Dashboard = () => {
 
   return (
     <div className="space-y-8 pb-12">
-      
-      {/* Hidden container for PDF generation */}
-      <div className="absolute top-[-10000px] left-[-10000px] z-[-10] opacity-0 pointer-events-none">
-        {offerToDownload && (
-          <div ref={previewRef}>
-            <LivePreview data={offerToDownload} />
-          </div>
-        )}
-      </div>
 
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div>
