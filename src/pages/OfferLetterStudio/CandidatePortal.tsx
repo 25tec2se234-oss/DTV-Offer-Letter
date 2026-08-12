@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import LivePreview from './LivePreview';
 import { toPng } from 'html-to-image';
 import jsPDF from 'jspdf';
+import LZString from 'lz-string';
 
 const CandidatePortal = () => {
   // Read token from URL hash to avoid React Router length/slash crashing bugs
@@ -55,6 +56,23 @@ const CandidatePortal = () => {
           }
         } catch (e) {
           setError('Invalid or corrupted offer verification link.');
+          setLoading(false);
+          return;
+        }
+      } else if (token && token.startsWith('LZ_')) {
+        try {
+          const payload = token.replace('LZ_', '');
+          const decoded = LZString.decompressFromEncodedURIComponent(payload);
+          if (!decoded) throw new Error("Decompression failed");
+          offerData = JSON.parse(decoded);
+          
+          if (offerData.candidate_details?.email?.toLowerCase().trim() !== candidateEmail.toLowerCase().trim()) {
+            setError('Invalid email address. Please try again.');
+            setLoading(false);
+            return;
+          }
+        } catch (e) {
+          setError('Invalid or corrupted offer link.');
           setLoading(false);
           return;
         }

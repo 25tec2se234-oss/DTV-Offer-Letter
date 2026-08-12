@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import api from '../../utils/api';
 import { toPng } from 'html-to-image';
 import jsPDF from 'jspdf';
+import LZString from 'lz-string';
 import LivePreview from './LivePreview';
 
 const Dashboard = () => {
@@ -24,11 +25,8 @@ const Dashboard = () => {
   const previewRef = useRef<HTMLDivElement>(null);
 
   const getCandidateActionToken = (offer: any) => {
-    // We encode the full offer object so Candidate Portal can work completely serverless across devices
-    // MUST be URL-safe Base64 to prevent '/' from breaking React Router
-    let encoded = btoa(encodeURIComponent(JSON.stringify(offer)));
-    encoded = encoded.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
-    return `DATA_${encoded}`;
+    // Highly compress the JSON to keep the URL short and avoid looking like spam
+    return `LZ_${LZString.compressToEncodedURIComponent(JSON.stringify(offer))}`;
   };
 
   const copyCandidateLink = (offer: any) => {
