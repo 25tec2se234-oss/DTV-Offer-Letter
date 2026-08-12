@@ -314,10 +314,10 @@ const Dashboard = () => {
                         >
                           <LinkIcon className="w-4 h-4" />
                         </button>
-                        <Link to={`/offer/action/${offer.verification_token}`} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-lg transition-all" title="Preview Candidate Portal">
+                        <Link to={`/offer/action/${offer.verification_token || offer.id}`} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-lg transition-all" title="Preview Candidate Portal">
                           <Eye className="w-4 h-4" />
                         </Link>
-                        <Link to={`/offer-letter-studio/edit/${offer.id}`} className="p-2 text-gray-400 hover:text-indigo-400 hover:bg-indigo-500/10 rounded-lg transition-all" title="Edit Offer">
+                        <Link to={`/edit/${offer.id}`} className="p-2 text-gray-400 hover:text-indigo-400 hover:bg-indigo-500/10 rounded-lg transition-all" title="Edit Offer">
                           <Edit className="w-4 h-4" />
                         </Link>
                         <button 
