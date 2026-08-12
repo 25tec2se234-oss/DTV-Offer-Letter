@@ -10,7 +10,7 @@ import html2pdf from 'html2pdf.js';
 const CandidatePortal = () => {
   const { token } = useParams();
   const [offer, setOffer] = useState<any>(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [actionLoading, setActionLoading] = useState(false);
   const [isDownloading, setIsDownloading] = useState(false);
