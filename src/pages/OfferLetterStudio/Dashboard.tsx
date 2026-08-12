@@ -154,7 +154,7 @@ const Dashboard = () => {
           <p className="text-gray-400 mt-1">Manage, track, and generate premium offer letters.</p>
         </div>
         <Link 
-          to="/offer-letter-studio/create" 
+          to="/create" 
           className="group relative inline-flex items-center justify-center px-6 py-3 font-semibold text-white transition-all duration-300 ease-in-out bg-indigo-600 rounded-xl hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 focus:ring-offset-[#0f1115]"
         >
           <span className="absolute inset-0 w-full h-full rounded-xl bg-gradient-to-r from-indigo-500 to-purple-500 opacity-0 group-hover:opacity-100 transition-opacity blur-md"></span>
