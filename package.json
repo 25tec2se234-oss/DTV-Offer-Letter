@@ -13,6 +13,7 @@
     "@react-pdf/renderer": "^4.6.0",
     "@tailwindcss/vite": "^4.3.3",
     "axios": "^1.19.0",
+    "firebase": "^12.17.1",
     "framer-motion": "^13.1.0",
     "html-to-image": "^1.11.13",
     "html2pdf.js": "^0.14.0",

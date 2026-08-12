@@ -1,66 +1,80 @@
-const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
+import { collection, doc, getDoc, getDocs, addDoc, updateDoc, deleteDoc, query, where, orderBy } from 'firebase/firestore';
+import { db } from './firebase';
 
-const getLocalData = (key: string, defaultValue: any) => {
-  const data = localStorage.getItem(key);
-  return data ? JSON.parse(data) : defaultValue;
-};
-
-const setLocalData = (key: string, value: any) => {
-  localStorage.setItem(key, JSON.stringify(value));
-};
-
-const mockApi = {
+const api = {
   get: async (url: string) => {
-    await delay(500);
     if (url === '/' || url === '') {
-      const offers = getLocalData('dtv_offers', []);
+      const q = query(collection(db, 'offers'), orderBy('created_at', 'desc'));
+      const snapshot = await getDocs(q);
+      const offers = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
       return { offers, total: offers.length, page: 1, limit: 1000 };
     }
     
     // GET /verify/:token
     if (url.startsWith('/verify/')) {
       const id = url.split('/')[2];
-      const offers = getLocalData('dtv_offers', []);
-      const offer = offers.find((o: any) => o.id === id || o.verification_token === id);
-      if (!offer) return Promise.reject({ response: { status: 404 } });
-      return offer;
+      try {
+        const docRef = doc(db, 'offers', id);
+        const docSnap = await getDoc(docRef);
+        if (docSnap.exists()) {
+          return { id: docSnap.id, ...docSnap.data() };
+        }
+      } catch (e) {}
+      
+      // Check verification_token if id didn't match doc id
+      const q = query(collection(db, 'offers'), where('verification_token', '==', id));
+      const snap = await getDocs(q);
+      if (!snap.empty) {
+        return { id: snap.docs[0].id, ...snap.docs[0].data() };
+      }
+      return Promise.reject({ response: { status: 404 } });
     }
 
     // GET /:id
     const id = url.replace('/', '');
-    const offers = getLocalData('dtv_offers', []);
-    const offer = offers.find((o: any) => o.id === id);
-    if (!offer) throw new Error('Not found');
-    return offer;
+    const docRef = doc(db, 'offers', id);
+    const docSnap = await getDoc(docRef);
+    if (!docSnap.exists()) throw new Error('Not found');
+    return { id: docSnap.id, ...docSnap.data() };
   },
 
   post: async (url: string, data: any) => {
-    await delay(600);
-    
     // Send email route
     if (url.endsWith('/send')) {
       const id = url.split('/')[1];
-      const offers = getLocalData('dtv_offers', []);
-      const index = offers.findIndex((o: any) => o.id === id);
-      if (index > -1) {
-        offers[index].status = 'SENT';
-        setLocalData('dtv_offers', offers);
-        return { message: 'Offer sent successfully' };
-      }
-      throw new Error('Not found');
+      const docRef = doc(db, 'offers', id);
+      await updateDoc(docRef, { status: 'SENT' });
+      return { message: 'Offer sent successfully' };
     }
 
     // Candidate Portal Access
     if (url.startsWith('/access/')) {
       const id = url.split('/')[2];
-      const offers = getLocalData('dtv_offers', []);
-      const offer = offers.find((o: any) => o.id === id || o.verification_token === id);
-      if (!offer) return Promise.reject({ response: { status: 404 } });
       
-      if (offer.candidate_details?.email?.toLowerCase().trim() !== data.email?.toLowerCase().trim()) {
+      let offerData: any = null;
+      
+      try {
+        const docRef = doc(db, 'offers', id);
+        const docSnap = await getDoc(docRef);
+        if (docSnap.exists()) {
+          offerData = { id: docSnap.id, ...docSnap.data() };
+        }
+      } catch (e) {}
+      
+      if (!offerData) {
+        const q = query(collection(db, 'offers'), where('verification_token', '==', id));
+        const snap = await getDocs(q);
+        if (!snap.empty) {
+          offerData = { id: snap.docs[0].id, ...snap.docs[0].data() };
+        }
+      }
+      
+      if (!offerData) return Promise.reject({ response: { status: 404 } });
+      
+      if (offerData.candidate_details?.email?.toLowerCase().trim() !== data.email?.toLowerCase().trim()) {
         return Promise.reject({ response: { status: 401 } });
       }
-      return offer;
+      return offerData;
     }
 
     // Accept / Decline action
@@ -68,59 +82,73 @@ const mockApi = {
       const parts = url.split('/');
       const id = parts[2];
       const action = parts[3];
-      const offers = getLocalData('dtv_offers', []);
-      const index = offers.findIndex((o: any) => o.id === id || o.verification_token === id);
       
-      if (index > -1) {
-        if (action === 'accept') {
-          offers[index].status = 'ACCEPTED';
-          offers[index].candidate_signature = data.signature;
-        } else if (action === 'decline') {
-          offers[index].status = 'DECLINED';
-          offers[index].decline_reason = data.reason;
+      let docRef = doc(db, 'offers', id);
+      let offerData: any = null;
+      
+      try {
+        const docSnap = await getDoc(docRef);
+        if (docSnap.exists()) offerData = docSnap.data();
+      } catch (e) {}
+      
+      if (!offerData) {
+        const q = query(collection(db, 'offers'), where('verification_token', '==', id));
+        const snap = await getDocs(q);
+        if (!snap.empty) {
+          docRef = doc(db, 'offers', snap.docs[0].id);
+          offerData = snap.docs[0].data();
         }
-        setLocalData('dtv_offers', offers);
+      }
+      
+      if (offerData) {
+        if (action === 'accept') {
+          await updateDoc(docRef, { 
+            status: 'ACCEPTED', 
+            candidate_signature: data.signature 
+          });
+        } else if (action === 'decline') {
+          await updateDoc(docRef, { 
+            status: 'DECLINED', 
+            decline_reason: data.reason 
+          });
+        }
         return { message: `Offer ${action}ed successfully` };
       }
       return Promise.reject({ response: { status: 404 } });
     }
 
     // POST /
-    const offers = getLocalData('dtv_offers', []);
     const newOffer = { 
       ...data, 
-      id: Date.now().toString(), 
       offer_id: `DTV-OFR-${Math.floor(Math.random() * 10000)}`,
       status: 'DRAFT',
-      created_at: new Date().toISOString() 
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
     };
-    offers.unshift(newOffer);
-    setLocalData('dtv_offers', offers);
-    return newOffer;
+    
+    const cleanData = JSON.parse(JSON.stringify(newOffer));
+    const docRef = await addDoc(collection(db, 'offers'), cleanData);
+    return { id: docRef.id, ...newOffer };
   },
 
   put: async (url: string, data: any) => {
-    await delay(600);
     const id = url.replace('/', '');
-    const offers = getLocalData('dtv_offers', []);
-    const index = offers.findIndex((o: any) => o.id === id);
+    const docRef = doc(db, 'offers', id);
+    const updateData = { ...data, updated_at: new Date().toISOString() };
     
-    if (index > -1) {
-      offers[index] = { ...offers[index], ...data, updated_at: new Date().toISOString() };
-      setLocalData('dtv_offers', offers);
-      return offers[index];
-    }
-    throw new Error('Not found');
+    if (updateData.id) delete updateData.id;
+    
+    const cleanData = JSON.parse(JSON.stringify(updateData));
+    await updateDoc(docRef, cleanData);
+    return { id, ...data, updated_at: updateData.updated_at };
   },
 
   delete: async (url: string) => {
-    await delay(500);
     const id = url.replace('/', '');
-    const offers = getLocalData('dtv_offers', []);
-    const filtered = offers.filter((o: any) => o.id !== id);
-    setLocalData('dtv_offers', filtered);
+    const docRef = doc(db, 'offers', id);
+    await deleteDoc(docRef);
     return { success: true };
   }
 };
 
-export default mockApi;
+export default api;

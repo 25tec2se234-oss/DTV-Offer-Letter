@@ -6,7 +6,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 import api from '../../utils/api';
 import { toPng } from 'html-to-image';
 import jsPDF from 'jspdf';
-import LZString from 'lz-string';
 import LivePreview from './LivePreview';
 
 const Dashboard = () => {
@@ -25,8 +24,7 @@ const Dashboard = () => {
   const previewRef = useRef<HTMLDivElement>(null);
 
   const getCandidateActionToken = (offer: any) => {
-    // Highly compress the JSON to keep the URL short and avoid looking like spam
-    return `LZ_${LZString.compressToEncodedURIComponent(JSON.stringify(offer))}`;
+    return offer.id;
   };
 
   const copyCandidateLink = (offer: any) => {

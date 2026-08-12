@@ -177,7 +177,7 @@ const CandidatePortal = () => {
         payload.signature = inputValue;
         
         // If serverless token, we mock the success locally since we don't have a backend
-        if (token?.startsWith('DATA_')) {
+        if (token?.startsWith('DATA_') || token?.startsWith('LZ_')) {
           setOffer({...offer, status: 'ACCEPTED', candidate_signature: inputValue});
           alert("Offer accepted successfully! (Note: Since this is a serverless demo, the HR won't see this unless a backend is connected).");
         } else {
@@ -185,7 +185,7 @@ const CandidatePortal = () => {
         }
       } else {
         payload.reason = inputValue;
-        if (token?.startsWith('DATA_')) {
+        if (token?.startsWith('DATA_') || token?.startsWith('LZ_')) {
           setOffer({...offer, status: 'DECLINED', decline_reason: inputValue});
           alert("Offer declined. (Note: Serverless demo mode).");
         } else {
@@ -197,7 +197,7 @@ const CandidatePortal = () => {
       setInputValue('');
       
       // If we are using mock API, re-fetch. If serverless, state is already updated.
-      if (!token?.startsWith('DATA_')) {
+      if (!token?.startsWith('DATA_') && !token?.startsWith('LZ_')) {
         await handleAuth();
       }
     } catch (err: any) {
