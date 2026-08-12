@@ -13,7 +13,7 @@ const AdminLogin = ({ onLogin }: { onLogin: () => void }) => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (email === 'admin@digitaltwinverse.com' && password === 'Admin@123') {
+    if (email === 'kar98kbi@gmail.com' && password === 'Kart@2012$2003') {
       sessionStorage.setItem('dtv_admin_auth', 'true');
       onLogin();
     } else {
@@ -37,7 +37,7 @@ const AdminLogin = ({ onLogin }: { onLogin: () => void }) => {
               type="email" 
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="admin@digitaltwinverse.com"
+              placeholder="kar98kbi@gmail.com"
               className="w-full bg-[#0f1115] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-all"
               required
             />
