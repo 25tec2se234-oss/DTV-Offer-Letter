@@ -306,7 +306,7 @@ const Dashboard = () => {
                       {getStatusBadge(offer.status?.toUpperCase() || 'DRAFT')}
                     </td>
                     <td className="px-6 py-4 text-right">
-                      <div className="flex justify-end items-center space-x-2 opacity-50 group-hover:opacity-100 transition-opacity">
+                      <div className="flex justify-end items-center space-x-3 opacity-100 transition-opacity">
                         <button 
                           onClick={() => copyCandidateLink(offer.verification_token)}
                           className="p-2 text-gray-400 hover:text-indigo-400 hover:bg-indigo-500/10 rounded-lg transition-all" 
