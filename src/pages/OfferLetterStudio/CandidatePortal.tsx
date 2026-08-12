@@ -14,6 +14,7 @@ const CandidatePortal = () => {
   const [error, setError] = useState('');
   const [actionLoading, setActionLoading] = useState(false);
   const [isDownloading, setIsDownloading] = useState(false);
+  const [renderPDF, setRenderPDF] = useState(false);
   const [actionType, setActionType] = useState<'accept' | 'decline' | null>(null);
   const [inputValue, setInputValue] = useState('');
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -51,10 +52,21 @@ const CandidatePortal = () => {
     }
   };
 
-  const handleDownload = async () => {
+  // Trigger PDF Generation once renderPDF is true and rendered off-screen
+  useEffect(() => {
+    if (renderPDF && previewRef.current) {
+      generatePDF();
+    }
+  }, [renderPDF]);
+
+  const handleDownloadClick = () => {
+    setIsDownloading(true);
+    setRenderPDF(true);
+  };
+
+  const generatePDF = async () => {
     if (!previewRef.current) return;
     try {
-      setIsDownloading(true);
       await document.fonts.ready; // Wait for fonts to fully load
       const opt = {
         margin:       [0.4, 0, 0.4, 0],
@@ -67,9 +79,10 @@ const CandidatePortal = () => {
       await html2pdf().set(opt).from(previewRef.current).save();
     } catch (err: any) {
       console.error("PDF generation error: ", err);
-      alert(`Failed to generate PDF: ${err.message || err.toString()}`);
+      alert(`Failed to generate PDF: ${err.message || JSON.stringify(err)}`);
     } finally {
       setIsDownloading(false);
+      setRenderPDF(false);
     }
   };
 
@@ -182,7 +195,7 @@ const CandidatePortal = () => {
       {/* Hidden PDF Container */}
       <div style={{ position: 'absolute', top: '-9999px', left: '-9999px', zIndex: -1 }}>
         <div ref={previewRef} style={{ width: '210mm' }}>
-          <LivePreview data={offer} />
+          {renderPDF && <LivePreview data={offer} />}
         </div>
       </div>
 
@@ -273,7 +286,7 @@ const CandidatePortal = () => {
             </div>
             {!isRevoked && (
               <button 
-                onClick={handleDownload}
+                onClick={handleDownloadClick}
                 disabled={isDownloading}
                 className="flex items-center px-6 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl text-sm font-bold text-white transition-all hover:scale-105 active:scale-95 disabled:opacity-50"
               >
