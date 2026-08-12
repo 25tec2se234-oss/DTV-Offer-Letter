@@ -23,8 +23,8 @@ const Dashboard = () => {
   const previewRef = useRef<HTMLDivElement>(null);
 
   const copyCandidateLink = (token: string) => {
-    const baseUrl = window.location.origin + window.location.pathname;
-    const link = `${baseUrl}#/offer/action/${token}`;
+    const baseUrl = window.location.origin;
+    const link = `${baseUrl}/offer/action/${token}`;
     navigator.clipboard.writeText(link);
     alert("Candidate action link copied to clipboard!");
   };
@@ -308,7 +308,7 @@ const Dashboard = () => {
                     <td className="px-6 py-4 text-right">
                       <div className="flex justify-end items-center space-x-3 opacity-100 transition-opacity">
                         <button 
-                          onClick={() => copyCandidateLink(offer.verification_token)}
+                          onClick={() => copyCandidateLink(offer.verification_token || offer.id)}
                           className="p-2 text-gray-400 hover:text-indigo-400 hover:bg-indigo-500/10 rounded-lg transition-all" 
                           title="Copy Candidate Link"
                         >
