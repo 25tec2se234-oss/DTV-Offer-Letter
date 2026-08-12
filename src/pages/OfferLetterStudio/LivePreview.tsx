@@ -21,6 +21,9 @@ const LivePreview = ({ data }: { data: any }) => {
     : '[Joining Date]';
 
   const enabledClauses = clauses?.filter((c: any) => c.enabled) || [];
+
+  const isInternship = position_details?.employment_type?.toLowerCase().includes('intern');
+  const offerTitle = isInternship ? 'Offer of Internship' : 'Offer of Employment';
   
   // Phase 1 Design Tokens applied inline where necessary, but mostly using custom colors via style or Tailwind arbitrary values
   const theme = {
@@ -95,7 +98,7 @@ const LivePreview = ({ data }: { data: any }) => {
                     className="text-[10px] font-semibold uppercase tracking-[0.12em]"
                     style={{ color: '#8b6932' /* Muted gold */ }}
                   >
-                    Offer of Employment
+                    {offerTitle}
                   </p>
                 </div>
               </div>
@@ -131,7 +134,7 @@ const LivePreview = ({ data }: { data: any }) => {
               </p>
 
               <p className="font-medium">
-                Subject: Offer of Employment
+                Subject: {offerTitle}
               </p>
 
               <p>

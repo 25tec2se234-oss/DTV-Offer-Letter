@@ -136,6 +136,8 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
   const joinDate = position_details.joining_date 
     ? new Date(position_details.joining_date).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })
     : '[Joining Date]';
+  const isInternship = position_details?.employment_type?.toLowerCase().includes('intern');
+  const offerTitle = isInternship ? 'Offer of Internship' : 'Offer of Employment';
 
   return (
     <Document>
@@ -151,7 +153,7 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
             </View>
             <Text style={{ fontSize: 14, fontWeight: 'extrabold', color: '#f97316' }}>TWIN VERSE</Text>
           </View>
-          <Text style={styles.companySubtitle}>Offer of Employment</Text>
+          <Text style={styles.companySubtitle}>{offerTitle}</Text>
           </View>
           <View style={styles.headerRight}>
             <Text>{settings?.website || 'https://digitaltwinvrs.com/'}</Text>
@@ -173,7 +175,7 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
           <Text style={styles.bold}>{candidate_details.name || '[Candidate Name]'}</Text>
           <Text style={{ marginBottom: 15 }}>{candidate_details.email || '[Email]'}</Text>
           
-          <Text style={{ fontWeight: 'bold', marginBottom: 15 }}>Subject: Offer of Employment as {position_details.designation || '[Designation]'}</Text>
+          <Text style={{ fontWeight: 'bold', marginBottom: 15 }}>Subject: {offerTitle} as {position_details.designation || '[Designation]'}</Text>
           
           <Text style={{ marginBottom: 10 }}>Dear {candidate_details.name?.split(' ')[0] || '[First Name]'},</Text>
           
