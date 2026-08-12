@@ -10,7 +10,7 @@ const setLocalData = (key: string, value: any) => {
 };
 
 const mockApi = {
-  get: async (url: string, config?: any) => {
+  get: async (url: string) => {
     await delay(500);
     if (url === '/' || url === '') {
       const offers = getLocalData('dtv_offers', []);
@@ -25,7 +25,7 @@ const mockApi = {
     return offer;
   },
 
-  post: async (url: string, data: any, config?: any) => {
+  post: async (url: string, data: any) => {
     await delay(600);
     
     // Send email route
@@ -55,7 +55,7 @@ const mockApi = {
     return newOffer;
   },
 
-  put: async (url: string, data: any, config?: any) => {
+  put: async (url: string, data: any) => {
     await delay(600);
     const id = url.replace('/', '');
     const offers = getLocalData('dtv_offers', []);
@@ -69,7 +69,7 @@ const mockApi = {
     throw new Error('Not found');
   },
 
-  delete: async (url: string, config?: any) => {
+  delete: async (url: string) => {
     await delay(500);
     const id = url.replace('/', '');
     const offers = getLocalData('dtv_offers', []);
