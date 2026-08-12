@@ -31,10 +31,33 @@ const CandidatePortal = () => {
     try {
       setLoading(true);
       setError('');
-      const docSnap = await api.post(`/access/${token}`, { email: candidateEmail.trim() });
       
-      if (docSnap && !docSnap.error) {
-        setOffer({ ...docSnap });
+      let offerData = null;
+      
+      if (token && token.startsWith('DATA_')) {
+        try {
+          const payload = token.replace('DATA_', '');
+          offerData = JSON.parse(decodeURIComponent(atob(payload)));
+          
+          if (offerData.candidate_details?.email?.toLowerCase().trim() !== candidateEmail.toLowerCase().trim()) {
+            setError('Invalid email address. Please try again.');
+            setLoading(false);
+            return;
+          }
+        } catch (e) {
+          setError('Invalid or corrupted offer verification link.');
+          setLoading(false);
+          return;
+        }
+      } else {
+        const docSnap = await api.post(`/access/${token}`, { email: candidateEmail.trim() });
+        if (docSnap && !docSnap.error) {
+          offerData = { ...docSnap };
+        }
+      }
+      
+      if (offerData) {
+        setOffer(offerData);
         setIsAuthenticated(true);
       } else {
         setError('Invalid or expired offer verification link.');
@@ -125,15 +148,31 @@ const CandidatePortal = () => {
            return;
         }
         payload.signature = inputValue;
-        await api.post(`/verify/${token}/accept`, payload);
+        
+        // If serverless token, we mock the success locally since we don't have a backend
+        if (token?.startsWith('DATA_')) {
+          setOffer({...offer, status: 'ACCEPTED', candidate_signature: inputValue});
+          alert("Offer accepted successfully! (Note: Since this is a serverless demo, the HR won't see this unless a backend is connected).");
+        } else {
+          await api.post(`/verify/${token}/accept`, payload);
+        }
       } else {
         payload.reason = inputValue;
-        await api.post(`/verify/${token}/decline`, payload);
+        if (token?.startsWith('DATA_')) {
+          setOffer({...offer, status: 'DECLINED', decline_reason: inputValue});
+          alert("Offer declined. (Note: Serverless demo mode).");
+        } else {
+          await api.post(`/verify/${token}/decline`, payload);
+        }
       }
 
       setActionType(null);
       setInputValue('');
-      await handleAuth();
+      
+      // If we are using mock API, re-fetch. If serverless, state is already updated.
+      if (!token?.startsWith('DATA_')) {
+        await handleAuth();
+      }
     } catch (err: any) {
       alert(err.response?.data?.message || `Failed to ${actionType} offer`);
       console.error(err);
