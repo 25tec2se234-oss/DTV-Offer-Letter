@@ -25,7 +25,9 @@ const Dashboard = () => {
 
   const getCandidateActionToken = (offer: any) => {
     // We encode the full offer object so Candidate Portal can work completely serverless across devices
-    const encoded = btoa(encodeURIComponent(JSON.stringify(offer)));
+    // MUST be URL-safe Base64 to prevent '/' from breaking React Router
+    let encoded = btoa(encodeURIComponent(JSON.stringify(offer)));
+    encoded = encoded.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
     return `DATA_${encoded}`;
   };
 

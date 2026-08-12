@@ -36,7 +36,14 @@ const CandidatePortal = () => {
       
       if (token && token.startsWith('DATA_')) {
         try {
-          const payload = token.replace('DATA_', '');
+          let payload = token.replace('DATA_', '');
+          
+          // Restore Base64URL to standard Base64
+          payload = payload.replace(/-/g, '+').replace(/_/g, '/');
+          while (payload.length % 4) {
+            payload += '=';
+          }
+          
           offerData = JSON.parse(decodeURIComponent(atob(payload)));
           
           if (offerData.candidate_details?.email?.toLowerCase().trim() !== candidateEmail.toLowerCase().trim()) {
