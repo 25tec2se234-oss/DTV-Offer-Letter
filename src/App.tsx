@@ -30,14 +30,16 @@ const AdminLogin = ({ onLogin }: { onLogin: () => void }) => {
         <h2 className="text-2xl font-black text-white mb-2 text-center">Admin Access</h2>
         <p className="text-gray-400 text-sm text-center mb-8">Secure login required to access Offer Letter Studio.</p>
         
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} autoComplete="off">
           <div className="mb-4">
             <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Email Address</label>
             <input 
               type="email" 
+              name="admin_email_field"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               placeholder="admin@example.com"
+              autoComplete="off"
               className="w-full bg-[#0f1115] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-all"
               required
             />
@@ -47,9 +49,11 @@ const AdminLogin = ({ onLogin }: { onLogin: () => void }) => {
             <label className="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Password</label>
             <input 
               type="password" 
+              name="admin_password_field"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               placeholder="••••••••"
+              autoComplete="new-password"
               className="w-full bg-[#0f1115] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-all"
               required
             />
