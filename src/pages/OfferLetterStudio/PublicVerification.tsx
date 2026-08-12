@@ -32,7 +32,8 @@ const PublicVerification = () => {
             offer_id: compact.i,
             candidate_details: { name: compact.n },
             position_details: { designation: compact.d, joining_date: compact.j },
-            status: compact.s || 'SENT'
+            status: compact.s || 'SENT',
+            is_qr_summary: true
           });
           setLoading(false);
           return;
@@ -261,18 +262,20 @@ const PublicVerification = () => {
           </div>
         </motion.div>
 
-        {/* Visual Document Preview */}
-        <motion.div initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2 }} className="mt-12 flex flex-col items-center">
-          <div className="flex items-center justify-center space-x-2 mb-6">
-            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest">Original Document View</h3>
-          </div>
-          
-          <div className="w-full overflow-x-auto pb-8 custom-scrollbar">
-            <div className="relative shadow-2xl rounded-sm overflow-hidden border border-white/10 shrink-0 mx-auto" style={{ width: 'max-content' }}>
-              <LivePreview data={offer} />
+        {/* Visual Document Preview - Hidden for QR code summaries because they don't contain the full document text */}
+        {!offer.is_qr_summary && (
+          <motion.div initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2 }} className="mt-12 flex flex-col items-center">
+            <div className="flex items-center justify-center space-x-2 mb-6">
+              <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest">Original Document View</h3>
             </div>
-          </div>
-        </motion.div>
+            
+            <div className="w-full overflow-x-auto pb-8 custom-scrollbar">
+              <div className="relative shadow-2xl rounded-sm overflow-hidden border border-white/10 shrink-0 mx-auto" style={{ width: 'max-content' }}>
+                <LivePreview data={offer} />
+              </div>
+            </div>
+          </motion.div>
+        )}
 
         <div className="mt-4 text-center">
           <p className="text-xs font-bold text-gray-600 uppercase tracking-widest">
