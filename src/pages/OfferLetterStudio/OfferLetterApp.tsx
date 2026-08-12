@@ -60,9 +60,8 @@ const OfferLetterApp = () => {
             </button>
             {/* Logo Area */}
             <div className="h-20 flex items-center px-6 border-b border-white/5">
-              <div className="relative flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-600 shadow-lg shadow-indigo-500/20">
-                <span className="text-white font-bold text-lg tracking-tighter relative z-10">DTV</span>
-                <div className="absolute inset-0 bg-white/20 rounded-xl blur-sm" />
+              <div className="relative flex items-center justify-center w-10 h-10 rounded-xl bg-white shadow-lg shadow-indigo-500/20 overflow-hidden">
+                <img src="/img/dtv-logo.jpg" alt="DTV Logo" className="w-8 h-8 object-contain relative z-10" />
               </div>
               <div className="ml-4">
                 <h1 className="text-white font-bold tracking-tight text-lg">Studio <span className="text-indigo-400">Pro</span></h1>

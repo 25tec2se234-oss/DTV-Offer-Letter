@@ -345,8 +345,8 @@ const CandidatePortal = () => {
 
         {/* Header */}
         <motion.div initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} className="text-center mb-12">
-          <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl shadow-[0_0_30px_rgba(99,102,241,0.4)] mb-6">
-            <span className="text-white font-black text-3xl tracking-tighter">DTV</span>
+          <div className="inline-flex items-center justify-center w-24 h-24 bg-white rounded-2xl shadow-[0_0_30px_rgba(99,102,241,0.4)] mb-6 overflow-hidden">
+            <img src="/img/dtv-logo.jpg" alt="DTV Logo" className="w-20 h-20 object-contain" />
           </div>
           <h1 className="text-4xl md:text-5xl font-black tracking-tight uppercase">
             <span className="text-white">DIGITAL</span> <span className="text-orange-500">TWIN VERSE</span>

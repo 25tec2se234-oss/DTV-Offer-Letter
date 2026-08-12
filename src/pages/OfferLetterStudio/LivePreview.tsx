@@ -75,12 +75,12 @@ const LivePreview = ({ data }: { data: any }) => {
           className="absolute inset-0 flex items-center justify-center pointer-events-none z-0"
           style={{ opacity: 0.04 }}
         >
-          <span 
-            className="font-black tracking-tighter"
-            style={{ fontSize: '200px', transform: 'rotate(-45deg)', color: theme.ink }}
-          >
-            DTV
-          </span>
+          <img 
+            src="/img/dtv-logo.jpg" 
+            alt="DTV Watermark"
+            className="w-[400px] h-[400px] object-contain grayscale"
+            style={{ transform: 'rotate(-30deg)' }}
+          />
         </div>
 
         <div className="relative z-10" style={{ padding: '25mm' }}>
@@ -277,8 +277,8 @@ const LivePreview = ({ data }: { data: any }) => {
                       className="absolute left-10 -top-8 w-24 h-24 rounded-full flex items-center justify-center"
                       style={{ border: `2px solid ${theme.gold}`, opacity: 0.45, zIndex: 0 }}
                     >
-                      <div className="w-20 h-20 rounded-full border-2 border-dashed flex items-center justify-center text-[11px] font-bold uppercase tracking-widest text-center" style={{ borderColor: theme.gold, color: theme.gold }}>
-                        DTV<br/>Seal
+                      <div className="w-20 h-20 rounded-full border-2 border-dashed flex items-center justify-center overflow-hidden bg-white" style={{ borderColor: theme.gold }}>
+                        <img src="/img/dtv-logo.jpg" alt="DTV Seal" className="w-14 h-14 object-contain opacity-80" />
                       </div>
                     </div>
 
