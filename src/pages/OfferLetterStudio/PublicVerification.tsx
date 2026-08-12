@@ -7,7 +7,8 @@ import { motion } from 'framer-motion';
 import LivePreview from './LivePreview';
 
 const PublicVerification = () => {
-  const { token } = useParams();
+  // Read token from URL hash to avoid React Router length/slash crashing bugs
+  const token = window.location.hash ? window.location.hash.replace('#', '') : undefined;
   const [offer, setOffer] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');

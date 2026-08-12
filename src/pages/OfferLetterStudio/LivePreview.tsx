@@ -54,7 +54,7 @@ const LivePreview = ({ data }: { data: any }) => {
   };
 
   const payload = compressData(data);
-  const verifyUrl = `${window.location.origin}/offer/verify/QR_${payload}`;
+  const verifyUrl = `${window.location.origin}/offer/verify#QR_${payload}`;
 
   return (
     <>

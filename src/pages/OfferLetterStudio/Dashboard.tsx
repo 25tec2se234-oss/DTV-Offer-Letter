@@ -32,10 +32,9 @@ const Dashboard = () => {
   };
 
   const copyCandidateLink = (offer: any) => {
-    const baseUrl = window.location.origin;
-    const link = `${baseUrl}/offer/action/${getCandidateActionToken(offer)}`;
+    const link = `${window.location.origin}/offer/action#${getCandidateActionToken(offer)}`;
     navigator.clipboard.writeText(link);
-    alert("Candidate action link copied to clipboard!");
+    alert('Candidate Portal link copied to clipboard!');
   };
 
   useEffect(() => {
@@ -342,7 +341,7 @@ const Dashboard = () => {
                         >
                           <LinkIcon className="w-4 h-4" />
                         </button>
-                        <Link to={`/offer/action/${getCandidateActionToken(offer)}`} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-lg transition-all" title="Preview Candidate Portal">
+                        <Link to={`/offer/action#${getCandidateActionToken(offer)}`} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-lg transition-all" title="Preview Candidate Portal">
                           <Eye className="w-4 h-4" />
                         </Link>
                         <Link to={`/edit/${offer.id}`} className="p-2 text-gray-400 hover:text-indigo-400 hover:bg-indigo-500/10 rounded-lg transition-all" title="Edit Offer">

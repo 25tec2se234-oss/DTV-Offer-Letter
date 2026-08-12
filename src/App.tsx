@@ -7,8 +7,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/offer/action/:token" element={<CandidatePortal />} />
-        <Route path="/offer/verify/:token" element={<PublicVerification />} />
+        <Route path="/offer/action" element={<CandidatePortal />} />
+        <Route path="/offer/verify" element={<PublicVerification />} />
         <Route path="/*" element={<OfferLetterApp />} />
       </Routes>
     </BrowserRouter>

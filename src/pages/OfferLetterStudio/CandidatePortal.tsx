@@ -9,7 +9,9 @@ import { toPng } from 'html-to-image';
 import jsPDF from 'jspdf';
 
 const CandidatePortal = () => {
-  const { token } = useParams();
+  // Read token from URL hash to avoid React Router length/slash crashing bugs
+  const token = window.location.hash ? window.location.hash.replace('#', '') : undefined;
+  
   const [offer, setOffer] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
