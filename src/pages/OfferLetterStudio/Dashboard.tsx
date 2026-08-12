@@ -368,7 +368,7 @@ const Dashboard = () => {
             </tbody>
           </table>
         </div>
-      </div>
+      </motion.div>
 
       {/* Hidden container for PDF Generation */}
       <div style={{ position: 'absolute', top: '-9999px', left: '-9999px', zIndex: -1 }}>
