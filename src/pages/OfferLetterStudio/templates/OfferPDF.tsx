@@ -123,7 +123,11 @@ interface OfferPDFProps {
 }
 
 const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
-  const { candidate_details, position_details, compensation_details, issue_date } = data;
+  const { candidate_details, position_details, compensation_details, clauses, responsibilities, issue_date, signatory_id } = data;
+  
+  // Get signatory from localStorage or fallback
+  const savedSigs = typeof window !== 'undefined' ? JSON.parse(localStorage.getItem('dtv_signatories') || '[]') : [];
+  const sig = savedSigs.find((s: any) => s.id === signatory_id) || savedSigs[0] || { name: 'Kumar Kartikey', title: 'Founder & CEO' };
   const companyName = settings?.company_name || 'Digital Twin Verse';
   
   const today = issue_date 
@@ -219,10 +223,10 @@ const OfferPDF: React.FC<OfferPDFProps> = ({ data, settings }) => {
         {/* Signatures */}
         <View style={styles.signatureContainer}>
           <View style={styles.signatureBlock}>
-            <Text style={{ fontSize: 24, fontStyle: 'italic', color: '#1f2937', marginBottom: 10 }}>Kumar Kartikey</Text>
+            <Text style={{ fontSize: 24, fontStyle: 'italic', color: '#1f2937', marginBottom: 10 }}>{sig.name}</Text>
             <View style={styles.signatureLine} />
-            <Text style={styles.signatureName}>Kumar Kartikey</Text>
-            <Text style={styles.signatureRole}>Founder & CEO</Text>
+            <Text style={styles.signatureName}>{sig.name}</Text>
+            <Text style={styles.signatureRole}>{sig.title}</Text>
           </View>
           <View style={styles.signatureBlock}>
             <View style={{ height: 24, marginBottom: 10 }} />

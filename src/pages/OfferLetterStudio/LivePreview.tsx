@@ -7,7 +7,11 @@ import { QRCodeCanvas } from 'qrcode.react';
 // The real output uses React-PDF, but this looks amazing in the UI.
 
 const LivePreview = ({ data }: { data: any }) => {
-  const { candidate_details, position_details, compensation_details, responsibilities, clauses, issue_date } = data;
+  const { candidate_details, position_details, compensation_details, clauses, responsibilities, issue_date, signatory_id } = data;
+  
+  // Get signatory from localStorage or fallback
+  const savedSigs = JSON.parse(localStorage.getItem('dtv_signatories') || '[]');
+  const sig = savedSigs.find((s: any) => s.id === signatory_id) || savedSigs[0] || { name: 'Kumar Kartikey', title: 'Founder & CEO' };
 
   const today = issue_date 
     ? new Date(issue_date).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }) 
@@ -270,11 +274,11 @@ const LivePreview = ({ data }: { data: any }) => {
                     </div>
 
                     <div className="h-16 flex items-end pb-2 relative z-10">
-                      <span className="text-[36px]" style={{ fontFamily: "'Brush Script MT', cursive", color: theme.ink }}>Kumar Kartikey</span>
+                      <span className="text-[36px]" style={{ fontFamily: "'Brush Script MT', cursive", color: theme.ink }}>{sig.name}</span>
                     </div>
                     <div className="pt-3" style={{ borderTop: `1px solid ${theme.hairline}` }}>
-                      <p className="font-medium text-[13px]" style={{ color: theme.text }}>Kumar Kartikey</p>
-                      <p className="text-[10px] uppercase tracking-widest font-medium mt-1" style={{ color: theme.textMuted }}>Founder & CEO</p>
+                      <p className="font-medium text-[13px]" style={{ color: theme.text }}>{sig.name}</p>
+                      <p className="text-[10px] uppercase tracking-widest font-medium mt-1" style={{ color: theme.textMuted }}>{sig.title}</p>
                     </div>
                  </div>
 
