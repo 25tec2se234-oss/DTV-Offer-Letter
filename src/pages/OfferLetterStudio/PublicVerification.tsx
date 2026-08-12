@@ -22,6 +22,26 @@ const PublicVerification = () => {
   const fetchOffer = async () => {
     try {
       setLoading(true);
+      
+      if (token && token.startsWith('QR_')) {
+        const payload = token.replace('QR_', '');
+        try {
+          const compact = JSON.parse(decodeURIComponent(atob(payload)));
+          setOffer({
+            offer_id: compact.i,
+            candidate_details: { name: compact.n },
+            position_details: { designation: compact.d, joining_date: compact.j },
+            status: compact.s || 'SENT'
+          });
+          setLoading(false);
+          return;
+        } catch (e) {
+          setError('Invalid or corrupted QR code data.');
+          setLoading(false);
+          return;
+        }
+      }
+
       const docSnap = await api.get(`/verify/${token}`);
       
       if (docSnap && !docSnap.error) {

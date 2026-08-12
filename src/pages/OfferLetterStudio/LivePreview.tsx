@@ -41,14 +41,20 @@ const LivePreview = ({ data }: { data: any }) => {
   
   // Real Verification URL that actually works when scanned!
   // It points to the /offer/verify/:id route of this exact application.
-  let verifyUrl = 'https://digitaltwinvrs.com';
-  if (data.verification_token) {
-    const baseUrl = window.location.origin;
-    verifyUrl = `${baseUrl}/offer/verify/${data.verification_token}`;
-  } else if (data.id) {
-    const baseUrl = window.location.origin;
-    verifyUrl = `${baseUrl}/offer/verify/${data.id}`;
-  }
+  // We use a base64 encoded payload so mobile phones can verify it without needing a shared backend database.
+  const compressData = (d: any) => {
+    const compact = {
+      i: d.offer_id || `DTV-OFR-${d.id?.substring(0, 4) || '1234'}`,
+      n: d.candidate_details?.name || 'Candidate',
+      d: d.position_details?.designation || 'Role',
+      s: d.status || 'SENT',
+      j: d.position_details?.joining_date || ''
+    };
+    return btoa(encodeURIComponent(JSON.stringify(compact)));
+  };
+
+  const payload = compressData(data);
+  const verifyUrl = `${window.location.origin}/offer/verify/QR_${payload}`;
 
   return (
     <>

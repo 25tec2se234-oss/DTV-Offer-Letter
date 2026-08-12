@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 import { Plus, Search, FileText, CheckCircle, XCircle, Clock, Edit, Eye, Download, Sparkles, Filter, MoreHorizontal, Trash2, Link as LinkIcon } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import api from '../../utils/api';
-import { pdf } from '@react-pdf/renderer';
-import OfferPDF from './templates/OfferPDF';
+import { toPng } from 'html-to-image';
+import jsPDF from 'jspdf';
 import LivePreview from './LivePreview';
 
 const Dashboard = () => {
@@ -34,10 +34,11 @@ const Dashboard = () => {
     fetchOffers();
   }, []);
 
-  // Trigger PDF Generation once offerToDownload is set
+  // Trigger PDF Generation once offerToDownload is set and rendered off-screen
   useEffect(() => {
-    if (offerToDownload) {
-      generatePDF();
+    if (offerToDownload && previewRef.current) {
+      // Give it a tiny delay to ensure DOM is fully painted
+      setTimeout(() => generatePDF(), 100);
     }
   }, [offerToDownload]);
 
@@ -85,20 +86,31 @@ const Dashboard = () => {
   };
 
   const generatePDF = async () => {
-    if (!offerToDownload) return;
+    if (!previewRef.current || !offerToDownload) return;
     try {
-      const blob = await pdf(<OfferPDF data={offerToDownload} settings={{}} />).toBlob();
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = `Offer_Letter_${offerToDownload.candidate_details?.name || 'Candidate'}.pdf`;
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      URL.revokeObjectURL(url);
-    } catch (err) {
+      await document.fonts.ready;
+      
+      const dataUrl = await toPng(previewRef.current, { 
+        quality: 1, 
+        pixelRatio: 2,
+        backgroundColor: '#ffffff'
+      });
+
+      const pdf = new jsPDF({
+        orientation: 'portrait',
+        unit: 'mm',
+        format: 'a4'
+      });
+
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (previewRef.current.offsetHeight * pdfWidth) / previewRef.current.offsetWidth;
+      
+      pdf.addImage(dataUrl, 'PNG', 0, 0, pdfWidth, pdfHeight);
+      pdf.save(`Offer_Letter_${offerToDownload.candidate_details?.name || 'Candidate'}.pdf`);
+
+    } catch (err: any) {
       console.error("PDF generation error: ", err);
-      alert("Failed to generate PDF");
+      alert(`Failed to generate PDF: ${err.message || JSON.stringify(err)}`);
     } finally {
       setDownloadingId(null);
       setOfferToDownload(null);
@@ -356,7 +368,14 @@ const Dashboard = () => {
             </tbody>
           </table>
         </div>
-      </motion.div>
+      </div>
+
+      {/* Hidden container for PDF Generation */}
+      <div style={{ position: 'absolute', top: '-9999px', left: '-9999px', zIndex: -1 }}>
+        <div ref={previewRef} style={{ width: '210mm' }}>
+          {offerToDownload && <LivePreview data={offerToDownload} />}
+        </div>
+      </div>
     </div>
   );
 };

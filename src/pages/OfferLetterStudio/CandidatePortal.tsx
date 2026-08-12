@@ -5,8 +5,8 @@ import api from '../../utils/api';
 import { ShieldCheck, Calendar, MapPin, Briefcase, Download, CheckCircle2, XCircle, FileSignature } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LivePreview from './LivePreview';
-import { pdf } from '@react-pdf/renderer';
-import OfferPDF from './templates/OfferPDF';
+import { toPng } from 'html-to-image';
+import jsPDF from 'jspdf';
 
 const CandidatePortal = () => {
   const { token } = useParams();
@@ -55,8 +55,8 @@ const CandidatePortal = () => {
 
   // Trigger PDF Generation once renderPDF is true
   useEffect(() => {
-    if (renderPDF) {
-      generatePDF();
+    if (renderPDF && previewRef.current) {
+      setTimeout(() => generatePDF(), 100);
     }
   }, [renderPDF]);
 
@@ -66,16 +66,27 @@ const CandidatePortal = () => {
   };
 
   const generatePDF = async () => {
+    if (!previewRef.current) return;
     try {
-      const blob = await pdf(<OfferPDF data={offer} settings={{}} />).toBlob();
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = `Offer_Letter_${offer.candidate_details?.name || 'Candidate'}.pdf`;
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      URL.revokeObjectURL(url);
+      await document.fonts.ready;
+      
+      const dataUrl = await toPng(previewRef.current, { 
+        quality: 1, 
+        pixelRatio: 2,
+        backgroundColor: '#ffffff'
+      });
+
+      const pdf = new jsPDF({
+        orientation: 'portrait',
+        unit: 'mm',
+        format: 'a4'
+      });
+
+      const pdfWidth = pdf.internal.pageSize.getWidth();
+      const pdfHeight = (previewRef.current.offsetHeight * pdfWidth) / previewRef.current.offsetWidth;
+      
+      pdf.addImage(dataUrl, 'PNG', 0, 0, pdfWidth, pdfHeight);
+      pdf.save(`Offer_Letter_${offer.candidate_details?.name || 'Candidate'}.pdf`);
     } catch (err: any) {
       console.error("PDF generation error: ", err);
       alert(`Failed to generate PDF: ${err.message || JSON.stringify(err)}`);
@@ -191,7 +202,12 @@ const CandidatePortal = () => {
   return (
     <div className="min-h-screen bg-[#0f1115] py-16 px-4 sm:px-6 lg:px-8 font-sans selection:bg-indigo-500/30">
       
-      {/* PDF is now generated entirely by @react-pdf/renderer */}
+      {/* Hidden PDF Container */}
+      <div style={{ position: 'absolute', top: '-9999px', left: '-9999px', zIndex: -1 }}>
+        <div ref={previewRef} style={{ width: '210mm' }}>
+          {renderPDF && <LivePreview data={offer} />}
+        </div>
+      </div>
 
       <AnimatePresence>
         {actionType && (
