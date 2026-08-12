@@ -17,6 +17,15 @@ const mockApi = {
       return { offers, total: offers.length, page: 1, limit: 1000 };
     }
     
+    // GET /verify/:token
+    if (url.startsWith('/verify/')) {
+      const id = url.split('/')[2];
+      const offers = getLocalData('dtv_offers', []);
+      const offer = offers.find((o: any) => o.id === id || o.verification_token === id);
+      if (!offer) return Promise.reject({ response: { status: 404 } });
+      return offer;
+    }
+
     // GET /:id
     const id = url.replace('/', '');
     const offers = getLocalData('dtv_offers', []);
@@ -39,6 +48,41 @@ const mockApi = {
         return { message: 'Offer sent successfully' };
       }
       throw new Error('Not found');
+    }
+
+    // Candidate Portal Access
+    if (url.startsWith('/access/')) {
+      const id = url.split('/')[2];
+      const offers = getLocalData('dtv_offers', []);
+      const offer = offers.find((o: any) => o.id === id || o.verification_token === id);
+      if (!offer) return Promise.reject({ response: { status: 404 } });
+      
+      if (offer.candidate_details?.email?.toLowerCase().trim() !== data.email?.toLowerCase().trim()) {
+        return Promise.reject({ response: { status: 401 } });
+      }
+      return offer;
+    }
+
+    // Accept / Decline action
+    if (url.startsWith('/verify/')) {
+      const parts = url.split('/');
+      const id = parts[2];
+      const action = parts[3];
+      const offers = getLocalData('dtv_offers', []);
+      const index = offers.findIndex((o: any) => o.id === id || o.verification_token === id);
+      
+      if (index > -1) {
+        if (action === 'accept') {
+          offers[index].status = 'ACCEPTED';
+          offers[index].candidate_signature = data.signature;
+        } else if (action === 'decline') {
+          offers[index].status = 'DECLINED';
+          offers[index].decline_reason = data.reason;
+        }
+        setLocalData('dtv_offers', offers);
+        return { message: `Offer ${action}ed successfully` };
+      }
+      return Promise.reject({ response: { status: 404 } });
     }
 
     // POST /
