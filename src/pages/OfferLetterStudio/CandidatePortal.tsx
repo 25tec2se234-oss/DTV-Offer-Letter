@@ -65,9 +65,9 @@ const CandidatePortal = () => {
         pagebreak:    { mode: ['css', 'legacy'] }
       };
       await html2pdf().set(opt).from(previewRef.current).save();
-    } catch (err) {
+    } catch (err: any) {
       console.error("PDF generation error: ", err);
-      alert("Failed to generate PDF");
+      alert(`Failed to generate PDF: ${err.message || err.toString()}`);
     } finally {
       setIsDownloading(false);
     }
