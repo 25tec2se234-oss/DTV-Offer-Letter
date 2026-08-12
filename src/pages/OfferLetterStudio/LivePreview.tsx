@@ -295,7 +295,7 @@ const LivePreview = ({ data }: { data: any }) => {
                  <div className="flex flex-col items-center justify-end pb-2">
                     <p className="text-[9px] uppercase tracking-widest font-medium text-gray-400 mb-2">Scan to Verify</p>
                     <div className="p-1.5 rounded-sm" style={{ backgroundColor: theme.paper, border: `1px solid ${theme.hairline}` }}>
-                      <QRCodeCanvas value={verifyUrl} size={64} level="M" fgColor={theme.ink} />
+                      <QRCodeCanvas value={verifyUrl} size={96} level="L" fgColor={theme.ink} />
                     </div>
                  </div>
 
